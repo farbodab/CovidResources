@@ -1,4 +1,36 @@
 HR_UID,province,health_region,pop
+4831,AB,South Zone,326645
+4832,AB,Calgary Zone,1732180
+4833,AB,Central Zone,478882
+4834,AB,Edmonton Zone,1461422
+4835,AB,North Zone,463412
+592,BC,Interior Health,710842
+591,BC,Fraser Health,1839068
+595,BC,Vancouver  Coastal Health,1193766
+593,BC,Vancouver Island Health,744984
+594,BC,Northern Health,285660
+4604,MB,Northern Regional Health Authority,77380
+4605,MB,Southern Health—Santé Sud,205885
+4601,MB,Winnipeg Regional Health Authority,787724
+4602,MB,Prairie Mountain Health,142031
+4603,MB,Interlake-Eastern Regional Health Authority,173021
+1307,NB,Zone 7 (Miramichi area),42440
+1301,NB,Zone 1 (Moncton area),217155
+1302,NB,Zone 2 (Saint John area),149412
+1303,NB,Zone 3 (Fredericton area),179137
+1304,NB,Zone 4 (Edmundston area),45390
+1305,NB,Zone 5 (Campbellton area),23126
+1306,NB,Zone 6 (Bathurst area),70761
+1011,NL,Eastern Regional Health Authority,310426
+1012,NL,Central Regional Health Authority,85388
+1013,NL,Western Regional Health Authority,73072
+1014,NL,Labrador-Grenfell Regional Health Authority,35649
+1203,NS,Zone 3 - Eastern,138177
+1204,NS,Zone 4 - Central,444740
+1201,NS,Zone 1 - Western,185660
+1202,NS,Zone 2 - Northern,145940
+6101,NT,Northwest Territories,44078
+6201,NU,Nunavut,37226
 3537,ON,City of Hamilton Health Unit,576272
 3538,ON,Hastings and Prince Edward Counties Health Unit,144779
 3539,ON,Huron Perth Public Health Unit,136672
@@ -7,25 +39,6 @@ HR_UID,province,health_region,pop
 3542,ON,Lambton Health Unit,115985
 3543,ON,"Leeds, Grenville and Lanark District Health Unit",153598
 3544,ON,Middlesex-London Health Unit,492971
-6001,YT,Yukon,39469
-6101,NT,Northwest Territories,44078
-6201,NU,Nunavut,37226
-4831,AB,South Zone,326645
-4832,AB,Calgary Zone,1732180
-4833,AB,Central Zone,478882
-4834,AB,Edmonton Zone,1461422
-4835,AB,North Zone,463412
-1307,NB,Zone 7 (Miramichi area),42440
-2401,QC,Région du Bas-Saint-Laurent,196158
-2402,QC,Région du Saguenay—Lac-Saint-Jean,276281
-2403,QC,Région de la Capitale-Nationale,700684
-2404,QC,Région de la Mauricie et du Centre-du-Québec,518043
-2405,QC,Région de l'Estrie,513429
-2406,QC,Région de Montréal,1856818
-2407,QC,Région de l'Outaouais,409421
-2408,QC,Région de l'Abitibi-Témiscamingue,148529
-2409,QC,Région de la Côte-Nord,87447
-2410,QC,Région du Nord-du-Québec,14642
 3546,ON,Niagara Regional Area Health Unit,450816
 3547,ON,North Bay Parry Sound District Health Unit,128804
 3549,ON,Northwestern Health Unit,74771
@@ -42,49 +55,35 @@ HR_UID,province,health_region,pop
 3565,ON,Waterloo Health Unit,571232
 3566,ON,Wellington-Dufferin-Guelph Health Unit,304193
 3568,ON,Windsor-Essex County Health Unit,348836
-1203,NS,Zone 3 - Eastern,138177
-1204,NS,Zone 4 - Central,444740
-1301,NB,Zone 1 (Moncton area),217155
-1302,NB,Zone 2 (Saint John area),149412
-1303,NB,Zone 3 (Fredericton area),179137
-1304,NB,Zone 4 (Edmundston area),45390
-1305,NB,Zone 5 (Campbellton area),23126
-1306,NB,Zone 6 (Bathurst area),70761
-4604,MB,Northern Regional Health Authority,77380
-4605,MB,Southern Health—Santé Sud,205885
 3570,ON,York Regional Health Unit,1200761
 3575,ON,Southwestern Public Health Unit,209238
 3595,ON,City of Toronto Health Unit,2987513
-4601,MB,Winnipeg Regional Health Authority,787724
-4602,MB,Prairie Mountain Health,142031
-4603,MB,Interlake-Eastern Regional Health Authority,173021
-1011,NL,Eastern Regional Health Authority,310426
-1012,NL,Central Regional Health Authority,85388
-1013,NL,Western Regional Health Authority,73072
-1014,NL,Labrador-Grenfell Regional Health Authority,35649
-1201,NS,Zone 1 - Western,185660
-1202,NS,Zone 2 - Northern,145940
-2411,QC,Région de la Gaspésie—Îles-de-la-Madeleine,85097
-2412,QC,Région de la Chaudière-Appalaches,425016
-2414,QC,Région de Lanaudière,444734
-2415,QC,Région des Laurentides,575539
-2416,QC,Région de la Montérégie,1370770
-2417,QC,Région du Nunavik,13849
-2418,QC,Région des Terres-Cries-de-la-Baie-James,17069
 3526,ON,The District of Algoma Health Unit,111060
 3527,ON,Brant County Health Unit,152029
 3530,ON,Durham Regional Health Unit,699641
-1100,PE,Prince Edward Island,135849
-2413,QC,Région de Laval,438320
 3533,ON,Grey Bruce Health Unit,154672
 3534,ON,Haldimand-Norfolk Health Unit,113098
 3535,ON,"Haliburton, Kawartha, Pine Ridge District Health Unit",185663
 3536,ON,Halton Regional Health Unit,605475
-592,BC,Interior Health,710842
-591,BC,Fraser Health,1839068
-595,BC,Vancouver  Coastal Health,1193766
-593,BC,Vancouver Island Health,744984
-594,BC,Northern Health,285660
+1100,PE,Prince Edward Island,135849
+2408,Quebec,Abitibi-TÃ©miscamingue,147508
+2401,Quebec,Bas-Saint-Laurent,197384
+2403,Quebec,Capitale-Nationale,745135
+2412,Quebec,ChaudiÃ¨re-Appalaches,426130
+2409,Quebec,CÃ´te-Nord,91213
+2405,Quebec,Estrie,484609
+2411,Quebec,GaspÃ©sie-ÃŽles-de-la-Madeleine,90709
+2414,Quebec,LanaudiÃ¨re,507947
+2415,Quebec,Laurentides,611019
+2413,Quebec,Laval,432858
+2404,Quebec,Mauricie,516665
+2416,Quebec,MontÃ©rÃ©gie,1396149
+2406,Quebec,MontrÃ©al,2029379
+2410,Quebec,Nord-du-QuÃ©bec,13927
+2417,Quebec,Nunavik,13777
+2407,Quebec,Outaouais,390830
+2402,Quebec,Saguenay,277406
+2418,Quebec,Terres-Cries-de-la-Baie-James,17854
 4750,SK,Central East,97493
 4751,SK,Central West,36454
 4752,SK,Far North Central,2948
@@ -104,3 +103,4 @@ HR_UID,province,health_region,pop
 475,SK,Regina,300166
 474,SK,Saskatoon,372794
 476,SK,South,156939
+6001,YT,Yukon,39469
