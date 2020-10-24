@@ -10,7 +10,7 @@ HR_UID,province,health_region,pop
 593,BC,Vancouver Island Health,744984
 594,BC,Northern Health,285660
 4604,MB,Northern Regional Health Authority,77380
-4605,MB,Southern Health�Sant� Sud,205885
+4605,MB,Southern Health,205885
 4601,MB,Winnipeg Regional Health Authority,787724
 4602,MB,Prairie Mountain Health,142031
 4603,MB,Interlake-Eastern Regional Health Authority,173021
@@ -44,7 +44,7 @@ HR_UID,province,health_region,pop
 3549,ON,Northwestern Health Unit,74771
 3551,ON,City of Ottawa Health Unit,1019693
 3553,ON,Peel Regional Health Unit,1553076
-3555,ON,Peterborough County�City Health Unit,144237
+3555,ON,Peterborough Health Unit,144237
 3556,ON,Porcupine Health Unit,90540
 3557,ON,Renfrew County and District Health Unit,106578
 3558,ON,The Eastern Ontario Health Unit,179454
@@ -66,24 +66,24 @@ HR_UID,province,health_region,pop
 3535,ON,"Haliburton, Kawartha, Pine Ridge District Health Unit",185663
 3536,ON,Halton Regional Health Unit,605475
 1100,PE,Prince Edward Island,135849
-2408,Quebec,Abitibi-Témiscamingue,147508
-2401,Quebec,Bas-Saint-Laurent,197384
-2403,Quebec,Capitale-Nationale,745135
-2412,Quebec,Chaudière-Appalaches,426130
-2409,Quebec,Côte-Nord,91213
-2405,Quebec,Estrie,484609
-2411,Quebec,Gaspésie-Îles-de-la-Madeleine,90709
-2414,Quebec,Lanaudière,507947
-2415,Quebec,Laurentides,611019
-2413,Quebec,Laval,432858
-2404,Quebec,Mauricie,516665
-2416,Quebec,Montérégie,1396149
-2406,Quebec,Montréal,2029379
-2410,Quebec,Nord-du-Québec,13927
-2417,Quebec,Nunavik,13777
-2407,Quebec,Outaouais,390830
-2402,Quebec,Saguenay,277406
-2418,Quebec,Terres-Cries-de-la-Baie-James,17854
+2408,QC,Abitibi-Témiscamingue,147508
+2401,QC,Bas-Saint-Laurent,197384
+2403,QC,Capitale-Nationale,745135
+2412,QC,Chaudière-Appalaches,426130
+2409,QC,Côte-Nord,91213
+2405,QC,Estrie,484609
+2411,QC,Gaspésie-Îles-de-la-Madeleine,90709
+2414,QC,Lanaudière,507947
+2415,QC,Laurentides,611019
+2413,QC,Laval,432858
+2404,QC,Mauricie,516665
+2416,QC,Montérégie,1396149
+2406,QC,Montréal,2029379
+2410,QC,Nord-du-Québec,13927
+2417,QC,Nunavik,13777
+2407,QC,Outaouais,390830
+2402,QC,Saguenay,277406
+2418,QC,Terres-Cries-de-la-Baie-James,17854
 4750,SK,Central East,97493
 4751,SK,Central West,36454
 4752,SK,Far North Central,2948
