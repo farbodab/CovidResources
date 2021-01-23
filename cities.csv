@@ -1,0 +1,1740 @@
+City,Province_left,HR_UID,Province_right,Population
+Wood Buffalo,Alberta,4835,AB,71589
+Grande Prairie,Alberta,4835,AB,63166
+Cold Lake,Alberta,4835,AB,14961
+Hinton,Alberta,4835,AB,9882
+Edson,Alberta,4835,AB,8414
+Peace River,Alberta,4835,AB,6842
+Slave Lake,Alberta,4835,AB,6651
+Bonnyville,Alberta,4835,AB,5975
+St. Paul,Alberta,4835,AB,5827
+Westlock,Alberta,4835,AB,5101
+Jasper,Alberta,4835,AB,4590
+Barrhead,Alberta,4835,AB,4579
+Grande Cache,Alberta,4835,AB,3571
+High Level,Alberta,4835,AB,3159
+Athabasca,Alberta,4835,AB,2965
+Grimshaw,Alberta,4835,AB,2718
+Sexsmith,Alberta,4835,AB,2620
+High Prairie,Alberta,4835,AB,2564
+Beaverlodge,Alberta,4835,AB,2465
+Redwater,Alberta,4835,AB,2053
+Fox Creek,Alberta,4835,AB,1971
+Valleyview,Alberta,4835,AB,1863
+Wembley,Alberta,4835,AB,1516
+Elk Point,Alberta,4835,AB,1452
+Wabasca,Alberta,4835,AB,1406
+Mayerthorpe,Alberta,4835,AB,1320
+Swan Hills,Alberta,4835,AB,1301
+Manning,Alberta,4835,AB,1183
+Whitecourt,Alberta,4835,AB,1082
+Falher,Alberta,4835,AB,1047
+Onoway,Alberta,4835,AB,1029
+Alberta Beach,Alberta,4835,AB,1018
+Edmonton,Alberta,4834,AB,1062643
+St. Albert,Alberta,4834,AB,65589
+Spruce Grove,Alberta,4834,AB,34066
+Leduc,Alberta,4834,AB,29993
+Fort Saskatchewan,Alberta,4834,AB,24149
+Beaumont,Alberta,4834,AB,17396
+Stony Plain,Alberta,4834,AB,17189
+Morinville,Alberta,4834,AB,9848
+Devon,Alberta,4834,AB,6578
+Gibbons,Alberta,4834,AB,3159
+Calmar,Alberta,4834,AB,2228
+Bon Accord,Alberta,4834,AB,1529
+Legal,Alberta,4834,AB,1345
+Red Deer,Alberta,4833,AB,100418
+Lloydminster,Alberta,4833,AB,19645
+Camrose,Alberta,4833,AB,18742
+Sylvan Lake,Alberta,4833,AB,14816
+Lacombe,Alberta,4833,AB,13057
+Wetaskiwin,Alberta,4833,AB,12655
+Blackfalds,Alberta,4833,AB,9328
+Olds,Alberta,4833,AB,9184
+Drumheller,Alberta,4833,AB,7982
+Innisfail,Alberta,4833,AB,7847
+Drayton Valley,Alberta,4833,AB,7235
+Ponoka,Alberta,4833,AB,7229
+Rocky Mountain House,Alberta,4833,AB,6635
+Wainwright,Alberta,4833,AB,6270
+Stettler,Alberta,4833,AB,5952
+Vegreville,Alberta,4833,AB,5708
+Vermilion,Alberta,4833,AB,4084
+Penhold,Alberta,4833,AB,3277
+Three Hills,Alberta,4833,AB,3212
+Sundre,Alberta,4833,AB,2729
+Rimbey,Alberta,4833,AB,2567
+Hanna,Alberta,4833,AB,2559
+Tofield,Alberta,4833,AB,2081
+Provost,Alberta,4833,AB,1998
+Millet,Alberta,4833,AB,1945
+Lamont,Alberta,4833,AB,1774
+Springbrook,Alberta,4833,AB,1507
+Two Hills,Alberta,4833,AB,1352
+Bruederheim,Alberta,4833,AB,1308
+Bowden,Alberta,4833,AB,1240
+Eckville,Alberta,4833,AB,1125
+Viking,Alberta,4833,AB,1083
+Bentley,Alberta,4833,AB,1078
+Trochu,Alberta,4833,AB,1058
+Calgary,Alberta,4832,AB,1239220
+Airdrie,Alberta,4832,AB,61581
+Okotoks,Alberta,4832,AB,28881
+Cochrane,Alberta,4832,AB,25853
+Chestermere,Alberta,4832,AB,19887
+Canmore,Alberta,4832,AB,13992
+Strathmore,Alberta,4832,AB,13756
+High River,Alberta,4832,AB,13584
+Banff,Alberta,4832,AB,7847
+Didsbury,Alberta,4832,AB,5268
+Carstairs,Alberta,4832,AB,4077
+Claresholm,Alberta,4832,AB,3780
+Crossfield,Alberta,4832,AB,2983
+Black Diamond,Alberta,4832,AB,2700
+Turner Valley,Alberta,4832,AB,2559
+Nanton,Alberta,4832,AB,2181
+Vulcan,Alberta,4832,AB,1917
+Irricana,Alberta,4832,AB,1216
+Lethbridge,Alberta,4831,AB,92729
+Medicine Hat,Alberta,4831,AB,63260
+Brooks,Alberta,4831,AB,14451
+Taber,Alberta,4831,AB,8428
+Coaldale,Alberta,4831,AB,8215
+Redcliff,Alberta,4831,AB,5600
+Crowsnest Pass,Alberta,4831,AB,5589
+Raymond,Alberta,4831,AB,3708
+Pincher Creek,Alberta,4831,AB,3642
+Cardston,Alberta,4831,AB,3585
+Fort Macleod,Alberta,4831,AB,2967
+Coalhurst,Alberta,4831,AB,2668
+Magrath,Alberta,4831,AB,2374
+Bow Island,Alberta,4831,AB,1983
+Picture Butte,Alberta,4831,AB,1810
+Nobleford,Alberta,4831,AB,1278
+Vauxhall,Alberta,4831,AB,1222
+Bassano,Alberta,4831,AB,1206
+Duchess,Alberta,4831,AB,1085
+Oyen,Alberta,4831,AB,1001
+Prince George,British Columbia,594,BC,74003
+Fort St. John,British Columbia,594,BC,20155
+Terrace,British Columbia,594,BC,15723
+Dawson Creek,British Columbia,594,BC,12978
+Prince Rupert,British Columbia,594,BC,12220
+Quesnel,British Columbia,594,BC,9879
+Kitimat,British Columbia,594,BC,8131
+Northern Rockies,British Columbia,594,BC,5393
+Smithers,British Columbia,594,BC,5351
+Vanderhoof,British Columbia,594,BC,4439
+Mackenzie,British Columbia,594,BC,3714
+Houston,British Columbia,594,BC,2993
+Chetwynd,British Columbia,594,BC,2635
+Tumbler Ridge,British Columbia,594,BC,1987
+Nisga'a,British Columbia,594,BC,1880
+Burns Lake,British Columbia,594,BC,1779
+Fort St. James,British Columbia,594,BC,1598
+Taylor,British Columbia,594,BC,1373
+Telkwa,British Columbia,594,BC,1327
+Valemount,British Columbia,594,BC,1021
+Hudson Hope,British Columbia,594,BC,1012
+Victoria,British Columbia,593,BC,335696
+Saanich,British Columbia,593,BC,114148
+Nanaimo,British Columbia,593,BC,90504
+Duncan,British Columbia,593,BC,44451
+Langford Station,British Columbia,593,BC,35342
+Campbell River,British Columbia,593,BC,35138
+North Cowichan,British Columbia,593,BC,29676
+Courtenay,British Columbia,593,BC,25599
+Oak Bay,British Columbia,593,BC,18094
+Port Alberni,British Columbia,593,BC,17678
+Esquimalt,British Columbia,593,BC,17655
+Colwood,British Columbia,593,BC,16859
+Central Saanich,British Columbia,593,BC,16814
+Comox,British Columbia,593,BC,14828
+Sooke,British Columbia,593,BC,13001
+Parksville,British Columbia,593,BC,12514
+Sidney,British Columbia,593,BC,11672
+North Saanich,British Columbia,593,BC,11249
+View Royal,British Columbia,593,BC,10408
+Qualicum Beach,British Columbia,593,BC,8943
+Ladysmith,British Columbia,593,BC,8537
+Metchosin,British Columbia,593,BC,4708
+Port Hardy,British Columbia,593,BC,4132
+Cumberland,British Columbia,593,BC,3753
+Lake Cowichan,British Columbia,593,BC,3226
+Cedar,British Columbia,593,BC,2836
+Errington,British Columbia,593,BC,2677
+Highlands,British Columbia,593,BC,2225
+Cowichan Bay,British Columbia,593,BC,2086
+Saltair,British Columbia,593,BC,2069
+Port McNeill,British Columbia,593,BC,2064
+Tofino,British Columbia,593,BC,1932
+Royston,British Columbia,593,BC,1616
+Coombs,British Columbia,593,BC,1612
+Hilliers,British Columbia,593,BC,1540
+Gold River,British Columbia,593,BC,1500
+Dunsmuir,British Columbia,593,BC,1330
+Youbou,British Columbia,593,BC,1086
+Vancouver,British Columbia,595,BC,2264823
+Richmond,British Columbia,595,BC,198309
+North Vancouver,British Columbia,595,BC,85935
+West Vancouver,British Columbia,595,BC,42473
+Squamish,British Columbia,595,BC,19512
+Powell River,British Columbia,595,BC,13157
+Whistler,British Columbia,595,BC,11854
+Sechelt,British Columbia,595,BC,10200
+Gibsons,British Columbia,595,BC,4605
+Bowen Island,British Columbia,595,BC,3680
+Pemberton,British Columbia,595,BC,2574
+Lions Bay,British Columbia,595,BC,1334
+Surrey,British Columbia,591,BC,517887
+Burnaby,British Columbia,591,BC,232755
+Abbotsford,British Columbia,591,BC,141397
+Coquitlam,British Columbia,591,BC,139284
+Langley,British Columbia,591,BC,117285
+Delta,British Columbia,591,BC,102238
+Chilliwack,British Columbia,591,BC,83788
+White Rock,British Columbia,591,BC,82368
+Maple Ridge,British Columbia,591,BC,82256
+New Westminster,British Columbia,591,BC,70996
+Port Coquitlam,British Columbia,591,BC,58612
+Mission,British Columbia,591,BC,38833
+Port Moody,British Columbia,591,BC,33551
+Pitt Meadows,British Columbia,591,BC,18573
+Hope,British Columbia,591,BC,6181
+Kent,British Columbia,591,BC,6067
+Anmore,British Columbia,591,BC,2210
+Harrison Hot Springs,British Columbia,591,BC,1468
+Popkum,British Columbia,591,BC,1382
+Kelowna,British Columbia,592,BC,142146
+Kamloops,British Columbia,592,BC,100046
+Vernon,British Columbia,592,BC,44600
+Penticton,British Columbia,592,BC,33761
+East Kelowna,British Columbia,592,BC,32655
+Cranbrook,British Columbia,592,BC,19259
+Salmon Arm,British Columbia,592,BC,17706
+Lake Country,British Columbia,592,BC,12922
+Summerland,British Columbia,592,BC,11615
+Williams Lake,British Columbia,592,BC,10753
+Nelson,British Columbia,592,BC,10664
+Coldstream,British Columbia,592,BC,10314
+Castlegar,British Columbia,592,BC,8039
+Trail,British Columbia,592,BC,7709
+Kimberley,British Columbia,592,BC,7425
+Merritt,British Columbia,592,BC,7139
+Peachland,British Columbia,592,BC,5428
+Creston,British Columbia,592,BC,5351
+Fernie,British Columbia,592,BC,5249
+Spallumcheen,British Columbia,592,BC,5106
+Osoyoos,British Columbia,592,BC,5085
+Oliver,British Columbia,592,BC,4928
+Armstrong,British Columbia,592,BC,4830
+Grand Forks,British Columbia,592,BC,4274
+Sparwood,British Columbia,592,BC,3784
+Rossland,British Columbia,592,BC,3729
+Golden,British Columbia,592,BC,3708
+Fruitvale,British Columbia,592,BC,3627
+Westbank,British Columbia,592,BC,3581
+Lumby,British Columbia,592,BC,3500
+Invermere,British Columbia,592,BC,3391
+Ellison,British Columbia,592,BC,3094
+Enderby,British Columbia,592,BC,2964
+Princeton,British Columbia,592,BC,2828
+Elkford,British Columbia,592,BC,2499
+Sicamous,British Columbia,592,BC,2429
+Clearwater,British Columbia,592,BC,2324
+Lillooet,British Columbia,592,BC,2321
+Chase,British Columbia,592,BC,2286
+Logan Lake,British Columbia,592,BC,2073
+One Hundred Mile House,British Columbia,592,BC,1980
+Warfield,British Columbia,592,BC,1729
+Barriere,British Columbia,592,BC,1713
+Naramata,British Columbia,592,BC,1676
+Nakusp,British Columbia,592,BC,1605
+Lakeview,British Columbia,592,BC,1600
+Ashcroft,British Columbia,592,BC,1558
+Keremeos,British Columbia,592,BC,1502
+Grindrod,British Columbia,592,BC,1470
+Sorrento,British Columbia,592,BC,1285
+Kaleden,British Columbia,592,BC,1203
+Salmo,British Columbia,592,BC,1141
+Windermere,British Columbia,592,BC,1092
+Ootischenia,British Columbia,592,BC,1080
+Ucluelet,British Columbia,593,BC,1717
+Springfield,Manitoba,4603,MB,15342
+St. Andrews,Manitoba,4603,MB,11913
+St. Clements,Manitoba,4603,MB,10876
+Selkirk,Manitoba,4603,MB,10278
+Rockwood,Manitoba,4603,MB,7823
+Gimli,Manitoba,4603,MB,6181
+Brokenhead,Manitoba,4603,MB,5122
+Stonewall,Manitoba,4603,MB,4809
+Woodlands,Manitoba,4603,MB,3416
+Bifrost-Riverton,Manitoba,4603,MB,3378
+Alexander,Manitoba,4603,MB,3333
+Beausejour,Manitoba,4603,MB,3126
+Lac du Bonnet,Manitoba,4603,MB,3121
+West Interlake,Manitoba,4603,MB,2162
+Armstrong,Manitoba,4603,MB,1792
+Fisher,Manitoba,4603,MB,1708
+Pinawa,Manitoba,4603,MB,1504
+Rosser,Manitoba,4603,MB,1372
+Grahamdale,Manitoba,4603,MB,1359
+Reynolds,Manitoba,4603,MB,1338
+St. Laurent,Manitoba,4603,MB,1338
+Powerview-Pine Falls,Manitoba,4603,MB,1316
+Coldwell,Manitoba,4603,MB,1254
+Arborg,Manitoba,4603,MB,1222
+Teulon,Manitoba,4603,MB,1201
+Winnipeg Beach,Manitoba,4603,MB,1145
+Brandon,Manitoba,4602,MB,48859
+Dauphin,Manitoba,4602,MB,8457
+Neepawa,Manitoba,4602,MB,4609
+Cornwallis,Manitoba,4602,MB,4520
+Swan River,Manitoba,4602,MB,4014
+Killarney - Turtle Mountain,Manitoba,4602,MB,3429
+Hillsburg-Roblin-Shell River,Manitoba,4602,MB,3214
+Virden,Manitoba,4602,MB,3114
+North Cypress-Langford,Manitoba,4602,MB,2745
+Minnedosa,Manitoba,4602,MB,2449
+Boissevain,Manitoba,4602,MB,2353
+Prairie View,Manitoba,4602,MB,2088
+McCreary,Manitoba,4602,MB,2011
+Deloraine-Winchester,Manitoba,4602,MB,2011
+Oakland-Wawanesa,Manitoba,4602,MB,2011
+Brenda-Waskada,Manitoba,4602,MB,2011
+Russell-Binscarth,Manitoba,4602,MB,2011
+Ellice-Archie,Manitoba,4602,MB,2011
+Souris-Glenwood,Manitoba,4602,MB,2011
+Riverdale,Manitoba,4602,MB,2011
+Wallace-Woodworth,Manitoba,4602,MB,2011
+Ethelbert,Manitoba,4602,MB,2011
+Yellowhead,Manitoba,4602,MB,2011
+Swan Valley West,Manitoba,4602,MB,2011
+Gilbert Plains,Manitoba,4602,MB,2011
+Norfolk-Treherne,Manitoba,4602,MB,2011
+Hamiota,Manitoba,4602,MB,2011
+Sifton,Manitoba,4602,MB,2011
+Rossburn,Manitoba,4602,MB,2011
+Grand View,Manitoba,4602,MB,2011
+Grassland,Manitoba,4602,MB,2011
+Ste. Rose,Manitoba,4602,MB,2011
+Cartwright-Roblin,Manitoba,4602,MB,2011
+Mossey River,Manitoba,4602,MB,2011
+Lakeshore,Manitoba,4602,MB,2011
+Riding Mountain West,Manitoba,4602,MB,2011
+Clanwilliam-Erickson,Manitoba,4602,MB,2011
+Glenboro-South Cypress,Manitoba,4602,MB,2011
+Minitonas-Bowsman,Manitoba,4602,MB,2011
+Carberry,Manitoba,4602,MB,1738
+Rosedale,Manitoba,4602,MB,1672
+Whitehead,Manitoba,4602,MB,1661
+Oakview,Manitoba,4602,MB,1626
+Harrison Park,Manitoba,4602,MB,1622
+Victoria,Manitoba,4602,MB,1514
+Pipestone,Manitoba,4602,MB,1458
+Prairie Lakes,Manitoba,4602,MB,1453
+Elton,Manitoba,4602,MB,1273
+Alonsa,Manitoba,4602,MB,1247
+Minto-Odanah,Manitoba,4602,MB,1189
+Glenella-Lansdowne,Manitoba,4602,MB,1181
+Two Borders,Manitoba,4602,MB,1175
+Melita,Manitoba,4602,MB,1042
+Argyle,Manitoba,4602,MB,1025
+Winnipeg,Manitoba,4601,MB,705244
+East St. Paul,Manitoba,4601,MB,9372
+West St. Paul,Manitoba,4601,MB,5368
+Steinbach,Manitoba,4605,MB,15829
+Hanover,Manitoba,4605,MB,15733
+Portage La Prairie,Manitoba,4605,MB,13304
+Winkler,Manitoba,4605,MB,12660
+Tache,Manitoba,4605,MB,11568
+Stanley,Manitoba,4605,MB,9038
+Morden,Manitoba,4605,MB,8668
+Macdonald,Manitoba,4605,MB,7162
+Ritchot,Manitoba,4605,MB,6679
+La Broquerie,Manitoba,4605,MB,6076
+Ste. Anne,Manitoba,4605,MB,5003
+Altona,Manitoba,4605,MB,4212
+Niverville,Manitoba,4605,MB,4083
+De Salaberry,Manitoba,4605,MB,3580
+Headingley,Manitoba,4605,MB,3579
+Cartier,Manitoba,4605,MB,3368
+Lorette,Manitoba,4605,MB,3208
+WestLake-Gladstone,Manitoba,4605,MB,3154
+Morris,Manitoba,4605,MB,3047
+Carman,Manitoba,4605,MB,3027
+Dufferin,Manitoba,4605,MB,2435
+Mitchell,Manitoba,4605,MB,2279
+Pembina,Manitoba,4605,MB,2011
+Lorne,Manitoba,4605,MB,2011
+Grey,Manitoba,4605,MB,2011
+Emerson-Franklin,Manitoba,4605,MB,2011
+Louise,Manitoba,4605,MB,2011
+North Norfolk,Manitoba,4605,MB,2011
+Reinland,Manitoba,4605,MB,2011
+Piney,Manitoba,4605,MB,1755
+Grunthal,Manitoba,4605,MB,1680
+Blumenort,Manitoba,4605,MB,1675
+Stuartburn,Manitoba,4605,MB,1648
+St. Francois Xavier,Manitoba,4605,MB,1411
+Landmark,Manitoba,4605,MB,1292
+Montcalm,Manitoba,4605,MB,1260
+St-Pierre-Jolys,Manitoba,4605,MB,1170
+Roland,Manitoba,4605,MB,1129
+Thompson,Manitoba,4604,MB,13678
+The Pas,Manitoba,4604,MB,5689
+Flin Flon,Saskatchewan,4604,MB,5185
+Flin Flon (Part),Manitoba,4604,MB,4982
+Kelsey,Manitoba,4604,MB,2424
+Wasagamack,Manitoba,4604,MB,1403
+Gillam,Manitoba,4604,MB,1265
+Bathurst,New Brunswick,1306,NB,18154
+Tracadie,New Brunswick,1306,NB,16114
+Beresford,New Brunswick,1306,NB,6248
+Shippagan,New Brunswick,1306,NB,4800
+Caraquet,New Brunswick,1306,NB,4248
+Shippegan,New Brunswick,1306,NB,2580
+Paquetville,New Brunswick,1306,NB,2329
+Allardville,New Brunswick,1306,NB,2032
+Petit Rocher,New Brunswick,1306,NB,1908
+Bas Caraquet,New Brunswick,1306,NB,1380
+New Bandon,New Brunswick,1306,NB,1214
+Bertrand,New Brunswick,1306,NB,1137
+Campbellton,New Brunswick,1305,NB,10411
+Atholville,New Brunswick,1305,NB,3570
+Eel River Crossing,New Brunswick,1305,NB,1953
+Balmoral,New Brunswick,1305,NB,1674
+Belledune,New Brunswick,1305,NB,1548
+Charlo,New Brunswick,1305,NB,1310
+Durham,New Brunswick,1305,NB,1076
+Edmundston,New Brunswick,1304,NB,16580
+Grand Falls,New Brunswick,1304,NB,5326
+Saint-Quentin,New Brunswick,1304,NB,2194
+Kedgwick,New Brunswick,1304,NB,1979
+Saint-Jacques,New Brunswick,1304,NB,1596
+Saint-Joseph,New Brunswick,1304,NB,1538
+Saint-Leonard,New Brunswick,1304,NB,1300
+Saint-Andre,New Brunswick,1304,NB,1129
+Fredericton,New Brunswick,1303,NB,58220
+Oromocto,New Brunswick,1303,NB,9223
+Douglas,New Brunswick,1303,NB,6154
+Woodstock,New Brunswick,1303,NB,5228
+Burton,New Brunswick,1303,NB,5119
+Saint Marys,New Brunswick,1303,NB,4837
+Hanwell,New Brunswick,1303,NB,4750
+New Maryland,New Brunswick,1303,NB,4174
+Bright,New Brunswick,1303,NB,3289
+Kingsclear,New Brunswick,1303,NB,2822
+Wakefield,New Brunswick,1303,NB,2767
+Lincoln,New Brunswick,1303,NB,2504
+Minto,New Brunswick,1303,NB,2305
+Upper Miramichi,New Brunswick,1303,NB,2218
+Kent,New Brunswick,1303,NB,2153
+Maugerville,New Brunswick,1303,NB,1831
+Manners Sutton,New Brunswick,1303,NB,1777
+Brighton,New Brunswick,1303,NB,1735
+Northampton,New Brunswick,1303,NB,1724
+Wicklow,New Brunswick,1303,NB,1697
+Florenceville,New Brunswick,1303,NB,1604
+Perth,New Brunswick,1303,NB,1590
+Gordon,New Brunswick,1303,NB,1493
+Southampton,New Brunswick,1303,NB,1484
+Denmark,New Brunswick,1303,NB,1471
+Richmond,New Brunswick,1303,NB,1303
+Peel,New Brunswick,1303,NB,1196
+Queensbury,New Brunswick,1303,NB,1174
+McAdam,New Brunswick,1303,NB,1151
+Chipman,New Brunswick,1303,NB,1104
+Noonan,New Brunswick,1303,NB,1042
+Plaster Rock,New Brunswick,1303,NB,1023
+Wilmot,New Brunswick,1303,NB,1022
+Saint John,New Brunswick,1302,NB,67575
+Quispamsis,New Brunswick,1302,NB,18245
+Rothesay,New Brunswick,1302,NB,11659
+Grand Bay-Westfield,New Brunswick,1302,NB,4964
+Saint Stephen,New Brunswick,1302,NB,4415
+Hampton,New Brunswick,1302,NB,4289
+Sussex,New Brunswick,1302,NB,4282
+Simonds,New Brunswick,1302,NB,3843
+Studholm,New Brunswick,1302,NB,3522
+Kingston,New Brunswick,1302,NB,2913
+Grand Manan,New Brunswick,1302,NB,2360
+Saint George,New Brunswick,1302,NB,2341
+Pennfield Ridge,New Brunswick,1302,NB,2170
+Westfield Beach,New Brunswick,1302,NB,1962
+Saint Andrews,New Brunswick,1302,NB,1786
+Saint David,New Brunswick,1302,NB,1529
+Springfield,New Brunswick,1302,NB,1525
+St. George,New Brunswick,1302,NB,1517
+Nauwigewauk,New Brunswick,1302,NB,1472
+Sussex Corner,New Brunswick,1302,NB,1461
+Norton,New Brunswick,1302,NB,1382
+Cardwell,New Brunswick,1302,NB,1353
+Upham,New Brunswick,1302,NB,1269
+Musquash,New Brunswick,1302,NB,1194
+Saint James,New Brunswick,1302,NB,1186
+Saint Martins,New Brunswick,1302,NB,1132
+Havelock,New Brunswick,1302,NB,1061
+Greenwich,New Brunswick,1302,NB,1058
+Moncton,New Brunswick,1301,NB,108620
+Dieppe,New Brunswick,1301,NB,107068
+Riverview,New Brunswick,1301,NB,19667
+Shediac,New Brunswick,1301,NB,6664
+Beaubassin East / Beaubassin-est,New Brunswick,1301,NB,6376
+Sackville,New Brunswick,1301,NB,5331
+Memramcook,New Brunswick,1301,NB,4778
+Coverdale,New Brunswick,1301,NB,4466
+Dundas,New Brunswick,1301,NB,3914
+Salisbury,New Brunswick,1301,NB,3388
+Wellington,New Brunswick,1301,NB,3079
+Cocagne,New Brunswick,1301,NB,2649
+Cap Pele,New Brunswick,1301,NB,2425
+Buctouche,New Brunswick,1301,NB,2361
+Saint-Charles,New Brunswick,1301,NB,1997
+Saint Mary,New Brunswick,1301,NB,1972
+Richibucto,New Brunswick,1301,NB,1887
+Saint-Louis,New Brunswick,1301,NB,1802
+Saint-Antoine,New Brunswick,1301,NB,1733
+Petitcodiac,New Brunswick,1301,NB,1383
+Weldford,New Brunswick,1301,NB,1338
+Hillsborough,New Brunswick,1301,NB,1308
+Rogersville,New Brunswick,1301,NB,1166
+Dorchester,New Brunswick,1301,NB,1096
+Botsford,New Brunswick,1301,NB,1058
+Miramichi,New Brunswick,1307,NB,17537
+Alnwick,New Brunswick,1307,NB,3640
+Northesk,New Brunswick,1307,NB,2263
+Hardwicke,New Brunswick,1307,NB,2201
+Southesk,New Brunswick,1307,NB,1694
+Glenelg,New Brunswick,1307,NB,1560
+Newcastle,New Brunswick,1307,NB,1136
+Neguac,New Brunswick,1307,NB,1684
+Lameque,New Brunswick,1306,NB,1285
+Happy Valley,Newfoundland and Labrador,1014,NL,8109
+Labrador City,Newfoundland and Labrador,1014,NL,7220
+St. Anthony,Newfoundland and Labrador,1014,NL,2258
+Wabush,Newfoundland and Labrador,1014,NL,1906
+Nain,Newfoundland and Labrador,1014,NL,1125
+Corner Brook,Newfoundland and Labrador,1013,NL,19806
+Stephenville,Newfoundland and Labrador,1013,NL,6623
+Deer Lake,Newfoundland and Labrador,1013,NL,5249
+Channel-Port aux Basques,Newfoundland and Labrador,1013,NL,4067
+Pasadena,Newfoundland and Labrador,1013,NL,3620
+Kippens,Newfoundland and Labrador,1013,NL,2008
+Stephenville Crossing,Newfoundland and Labrador,1013,NL,1719
+Massey Drive,Newfoundland and Labrador,1013,NL,1632
+Humbermouth,Newfoundland and Labrador,1013,NL,1599
+Irishtown-Summerside,Newfoundland and Labrador,1013,NL,1418
+Burgeo,Newfoundland and Labrador,1013,NL,1307
+St. George's,Newfoundland and Labrador,1013,NL,1203
+Grand Falls,Newfoundland and Labrador,1012,NL,14171
+Gander,Newfoundland and Labrador,1012,NL,11688
+Lewisporte,Newfoundland and Labrador,1012,NL,3409
+Bishops Falls,Newfoundland and Labrador,1012,NL,3156
+Springdale,Newfoundland and Labrador,1012,NL,2971
+Botwood,Newfoundland and Labrador,1012,NL,2875
+Fogo Island,Newfoundland and Labrador,1012,NL,2244
+Twillingate,Newfoundland and Labrador,1012,NL,2196
+New-Wes-Valley,Newfoundland and Labrador,1012,NL,2172
+Glovertown,Newfoundland and Labrador,1012,NL,2083
+Gambo,Newfoundland and Labrador,1012,NL,1978
+Harbour Breton,Newfoundland and Labrador,1012,NL,1634
+Baie Verte,Newfoundland and Labrador,1012,NL,1313
+St. Alban's,Newfoundland and Labrador,1012,NL,1186
+Centreville-Wareham-Trinity,Newfoundland and Labrador,1012,NL,1147
+St. John's,Newfoundland and Labrador,1011,NL,108860
+Conception Bay South,Newfoundland and Labrador,1011,NL,26199
+Mount Pearl Park,Newfoundland and Labrador,1011,NL,22957
+Paradise,Newfoundland and Labrador,1011,NL,21389
+Portugal Cove-St. Philip's,Newfoundland and Labrador,1011,NL,8147
+Torbay,Newfoundland and Labrador,1011,NL,7899
+Clarenville,Newfoundland and Labrador,1011,NL,6291
+Bay Roberts,Newfoundland and Labrador,1011,NL,6012
+Marystown,Newfoundland and Labrador,1011,NL,5316
+Carbonear,Newfoundland and Labrador,1011,NL,4838
+Goulds,Newfoundland and Labrador,1011,NL,4418
+Placentia,Newfoundland and Labrador,1011,NL,3496
+Bonavista,Newfoundland and Labrador,1011,NL,3448
+Harbour Grace,Newfoundland and Labrador,1011,NL,2995
+Spaniards Bay,Newfoundland and Labrador,1011,NL,2653
+Holyrood,Newfoundland and Labrador,1011,NL,2463
+Burin,Newfoundland and Labrador,1011,NL,2315
+Grand Bank,Newfoundland and Labrador,1011,NL,2310
+Logy Bay-Middle Cove-Outer Cove,Newfoundland and Labrador,1011,NL,2221
+Wabana,Newfoundland and Labrador,1011,NL,2146
+Pouch Cove,Newfoundland and Labrador,1011,NL,2069
+Trinity Bay North,Newfoundland and Labrador,1011,NL,1819
+Victoria,Newfoundland and Labrador,1011,NL,1800
+Flat Rock,Newfoundland and Labrador,1011,NL,1683
+Witless Bay,Newfoundland and Labrador,1011,NL,1619
+Upper Island Cove,Newfoundland and Labrador,1011,NL,1561
+Clarkes Beach,Newfoundland and Labrador,1011,NL,1558
+Bay Bulls,Newfoundland and Labrador,1011,NL,1500
+Fortune,Newfoundland and Labrador,1011,NL,1401
+Dildo,Newfoundland and Labrador,1011,NL,1234
+St. Lawrence,Newfoundland and Labrador,1011,NL,1192
+Harbour Main-Chapel's Cove-Lakeview,Newfoundland and Labrador,1011,NL,1067
+New Glasgow,Nova Scotia,1202,NS,20609
+Truro,Nova Scotia,1202,NS,12826
+Amherst,Nova Scotia,1202,NS,9550
+Stellarton,Nova Scotia,1202,NS,4208
+Westville,Nova Scotia,1202,NS,3628
+Pictou,Nova Scotia,1202,NS,3186
+Trenton,Nova Scotia,1202,NS,2474
+Lantz,Nova Scotia,1202,NS,2229
+Stewiacke,Nova Scotia,1202,NS,1373
+Parrsboro,Nova Scotia,1202,NS,1205
+Oxford,Nova Scotia,1202,NS,1190
+Kentville,Nova Scotia,1201,NS,12088
+Chester,Nova Scotia,1201,NS,10310
+Queens,Nova Scotia,1201,NS,10307
+Bridgewater,Nova Scotia,1201,NS,8532
+Church Point,Nova Scotia,1201,NS,8018
+Argyle,Nova Scotia,1201,NS,7899
+Barrington,Nova Scotia,1201,NS,6646
+Yarmouth,Nova Scotia,1201,NS,6518
+Wolfville,Nova Scotia,1201,NS,4195
+Berwick,Nova Scotia,1201,NS,2509
+Lunenburg,Nova Scotia,1201,NS,2263
+Digby,Nova Scotia,1201,NS,2060
+Middleton,Nova Scotia,1201,NS,1832
+Centreville,Nova Scotia,1201,NS,1129
+Wedgeport,Nova Scotia,1201,NS,1061
+Mahone Bay,Nova Scotia,1201,NS,1036
+Halifax,Nova Scotia,1204,NS,403131
+Windsor,Nova Scotia,1204,NS,3648
+Falmouth,Nova Scotia,1204,NS,1368
+Cape Breton,Nova Scotia,1203,NS,94285
+Inverness,Nova Scotia,1203,NS,17235
+Antigonish,Nova Scotia,1203,NS,5002
+Port Hawkesbury,Nova Scotia,1203,NS,3214
+Yellowknife,Northwest Territories,6101,NT,19569
+Hay River,Northwest Territories,6101,NT,3528
+Inuvik,Northwest Territories,6101,NT,3243
+Fort Smith,Northwest Territories,6101,NT,2542
+Behchoko,Northwest Territories,6101,NT,1874
+Fort Simpson,Northwest Territories,6101,NT,1202
+Iqaluit,Nunavut,6201,NU,7740
+Rankin Inlet,Nunavut,6201,NU,2842
+Arviat,Nunavut,6201,NU,2657
+Baker Lake,Nunavut,6201,NU,2069
+Cambridge Bay,Nunavut,6201,NU,1766
+Pond Inlet,Nunavut,6201,NU,1617
+Kugluktuk,Nunavut,6201,NU,1491
+Pangnirtung,Nunavut,6201,NU,1481
+Cape Dorset,Nunavut,6201,NU,1441
+Gjoa Haven,Nunavut,6201,NU,1324
+Repulse Bay,Nunavut,6201,NU,1082
+Clyde River,Nunavut,6201,NU,1053
+Taloyoak,Nunavut,6201,NU,1029
+Igloolik,Nunavut,6201,NU,1682
+Oakville,Ontario,3536,ON,193832
+Burlington,Ontario,3536,ON,183314
+Milton,Ontario,3536,ON,110128
+Halton Hills,Ontario,3536,ON,61161
+Kawartha Lakes,Ontario,3535,ON,75423
+Cobourg,Ontario,3535,ON,19440
+Port Hope,Ontario,3535,ON,16753
+Trent Hills,Ontario,3535,ON,12900
+Brighton,Ontario,3535,ON,11844
+Hamilton Township,Ontario,3535,ON,10942
+Alnwick/Haldimand,Ontario,3535,ON,6869
+Cramahe,Ontario,3535,ON,6355
+Dysart et al,Ontario,3535,ON,6280
+Hindon Hill,Ontario,3535,ON,6088
+Highlands East,Ontario,3535,ON,3343
+Algonquin Highlands,Ontario,3535,ON,2351
+Owen Sound,Ontario,3533,ON,31820
+Saugeen Shores,Ontario,3533,ON,13715
+West Grey,Ontario,3533,ON,12518
+Kincardine,Ontario,3533,ON,11389
+Meaford,Ontario,3533,ON,10991
+Georgian Bluffs,Ontario,3533,ON,10479
+Grey Highlands,Ontario,3533,ON,9804
+Brockton,Ontario,3533,ON,9461
+South Bruce Peninsula,Ontario,3533,ON,8416
+Hanover,Ontario,3533,ON,7688
+Southgate,Ontario,3533,ON,7190
+Huron-Kinloss,Ontario,3533,ON,7069
+The Blue Mountains,Ontario,3533,ON,7025
+Arran-Elderslie,Ontario,3533,ON,6803
+Chatsworth,Ontario,3533,ON,6630
+South Bruce,Ontario,3533,ON,5639
+Northern Bruce Peninsula,Ontario,3533,ON,3999
+Tara,Ontario,3533,ON,1138
+Oshawa,Ontario,3530,ON,166000
+Whitby,Ontario,3530,ON,128377
+Ajax,Ontario,3530,ON,119677
+Clarington,Ontario,3530,ON,92013
+Pickering,Ontario,3530,ON,91771
+Scugog,Ontario,3530,ON,21617
+Uxbridge,Ontario,3530,ON,21176
+Brock,Ontario,3530,ON,11642
+Claremont,Ontario,3530,ON,1202
+Brantford,Ontario,3527,ON,97496
+Brant,Ontario,3527,ON,36707
+Burford,Ontario,3527,ON,1615
+Sault Ste. Marie,Ontario,3526,ON,73368
+Elliot Lake,Ontario,3526,ON,10741
+Blind River,Ontario,3526,ON,3472
+Wawa,Ontario,3526,ON,2905
+Huron Shores,Ontario,3526,ON,1664
+"Macdonald, Meredith and Aberdeen Additional",Ontario,3526,ON,1609
+St. Joseph,Ontario,3526,ON,1240
+Sagamok,Ontario,3526,ON,1140
+Laird,Ontario,3526,ON,1047
+Prince,Ontario,3526,ON,1010
+Toronto,Ontario,3595,ON,5429524
+St. Thomas,Ontario,3575,ON,61707
+Woodstock,Ontario,3575,ON,40902
+Tillsonburg,Ontario,3575,ON,15872
+Ingersoll,Ontario,3575,ON,12757
+Central Elgin,Ontario,3575,ON,12607
+Norwich,Ontario,3575,ON,11001
+Malahide,Ontario,3575,ON,9292
+Zorra,Ontario,3575,ON,8138
+South-West Oxford,Ontario,3575,ON,7664
+Aylmer,Ontario,3575,ON,7492
+Blandford-Blenheim,Ontario,3575,ON,7399
+Bayham,Ontario,3575,ON,7396
+East Zorra-Tavistock,Ontario,3575,ON,7129
+West Elgin,Ontario,3575,ON,4995
+Southwold,Ontario,3575,ON,4421
+Dutton/Dunwich,Ontario,3575,ON,3866
+Markham,Ontario,3570,ON,328966
+Vaughan,Ontario,3570,ON,306233
+Richmond Hill,Ontario,3570,ON,195022
+Newmarket,Ontario,3570,ON,84224
+Aurora,Ontario,3570,ON,55445
+Stouffville,Ontario,3570,ON,45837
+Georgina,Ontario,3570,ON,45418
+East Gwillimbury,Ontario,3570,ON,23991
+King,Ontario,3570,ON,1082
+Windsor,Ontario,3568,ON,276165
+Lakeshore,Ontario,3568,ON,36611
+Leamington,Ontario,3568,ON,32991
+LaSalle,Ontario,3568,ON,30180
+Tecumseh,Ontario,3568,ON,23229
+Amherstburg,Ontario,3568,ON,21936
+Kingsville,Ontario,3568,ON,21552
+Essex,Ontario,3568,ON,20427
+Guelph,Ontario,3566,ON,131794
+Orangeville,Ontario,3566,ON,30734
+Centre Wellington,Ontario,3566,ON,28191
+Guelph/Eramosa,Ontario,3566,ON,12854
+Wellington North,Ontario,3566,ON,11914
+Erin,Ontario,3566,ON,11439
+Mapleton,Ontario,3566,ON,10527
+Minto,Ontario,3566,ON,8671
+Mono,Ontario,3566,ON,8609
+Shelburne,Ontario,3566,ON,8126
+Puslinch,Ontario,3566,ON,7336
+Amaranth,Ontario,3566,ON,3963
+Mulmur,Ontario,3566,ON,3478
+Melancthon,Ontario,3566,ON,3008
+Grand Valley,Ontario,3566,ON,2956
+East Garafraxa,Ontario,3566,ON,2579
+Hillsburgh,Ontario,3566,ON,1124
+Kitchener,Ontario,3565,ON,470015
+Cambridge,Ontario,3565,ON,129920
+Waterloo,Ontario,3565,ON,104986
+Woolwich,Ontario,3565,ON,25006
+Wilmot,Ontario,3565,ON,20545
+Wellesley,Ontario,3565,ON,11260
+North Dumfries,Ontario,3565,ON,10215
+Breslau,Ontario,3565,ON,3778
+Conestogo,Ontario,3565,ON,1270
+Temiskaming Shores,Ontario,3563,ON,9920
+Kirkland Lake,Ontario,3563,ON,7981
+Englehart,Ontario,3563,ON,1479
+Armstrong,Ontario,3563,ON,1166
+Cobalt,Ontario,3563,ON,1118
+Thunder Bay,Ontario,3562,ON,107909
+Oliver Paipoonge,Ontario,3562,ON,5922
+Greenstone,Ontario,3562,ON,4636
+Marathon,Ontario,3562,ON,3273
+Shuniah,Ontario,3562,ON,2798
+Neebing,Ontario,3562,ON,2055
+Manitouwadge,Ontario,3562,ON,1937
+Nipigon,Ontario,3562,ON,1642
+Terrace Bay,Ontario,3562,ON,1611
+Lappe,Ontario,3562,ON,1436
+Schreiber,Ontario,3562,ON,1059
+Sudbury,Ontario,3561,ON,88054
+Espanola,Ontario,3561,ON,4996
+Sables-Spanish Rivers,Ontario,3561,ON,3214
+Northeastern Manitoulin and the Islands,Ontario,3561,ON,2706
+French River / Riviere des Francais,Ontario,3561,ON,2662
+Markstay,Ontario,3561,ON,2656
+Central Manitoulin,Ontario,3561,ON,2084
+Chapleau,Ontario,3561,ON,1964
+St.-Charles,Ontario,3561,ON,1269
+Assiginack,Ontario,3561,ON,1013
+Barrie,Ontario,3560,ON,172657
+New Tecumseth,Ontario,3560,ON,41439
+Innisfil,Ontario,3560,ON,36566
+Bradford West Gwillimbury,Ontario,3560,ON,35325
+Orillia,Ontario,3560,ON,31166
+Collingwood,Ontario,3560,ON,21793
+Essa,Ontario,3560,ON,21083
+Oro-Medonte,Ontario,3560,ON,21036
+Wasaga Beach,Ontario,3560,ON,20675
+Huntsville,Ontario,3560,ON,19816
+Springwater,Ontario,3560,ON,19059
+Midland,Ontario,3560,ON,16864
+Bracebridge,Ontario,3560,ON,16010
+Clearview,Ontario,3560,ON,14151
+Severn,Ontario,3560,ON,13477
+Gravenhurst,Ontario,3560,ON,12311
+Tiny,Ontario,3560,ON,11787
+Adjala-Tosorontio,Ontario,3560,ON,10975
+Tay,Ontario,3560,ON,10033
+Ramara,Ontario,3560,ON,9488
+Penetanguishene,Ontario,3560,ON,8962
+Muskoka Falls,Ontario,3560,ON,6588
+Lake of Bays,Ontario,3560,ON,3167
+Georgian Bay,Ontario,3560,ON,2499
+Cornwall,Ontario,3558,ON,46589
+Clarence-Rockland,Ontario,3558,ON,24512
+Russell,Ontario,3558,ON,16520
+South Glengarry,Ontario,3558,ON,13150
+South Stormont,Ontario,3558,ON,13110
+The Nation / La Nation,Ontario,3558,ON,12808
+North Dundas,Ontario,3558,ON,11278
+South Dundas,Ontario,3558,ON,10833
+Hawkesbury,Ontario,3558,ON,10263
+North Glengarry,Ontario,3558,ON,10109
+Alfred and Plantagenet,Ontario,3558,ON,9680
+Champlain,Ontario,3558,ON,8706
+North Stormont,Ontario,3558,ON,6873
+Casselman,Ontario,3558,ON,3548
+East Hawkesbury,Ontario,3558,ON,3296
+Plantagenet,Ontario,3558,ON,1027
+Petawawa,Ontario,3557,ON,17187
+Pembroke,Ontario,3557,ON,13882
+Laurentian Valley,Ontario,3557,ON,9387
+Arnprior,Ontario,3557,ON,8795
+Renfrew,Ontario,3557,ON,8223
+McNab/Braeside,Ontario,3557,ON,7178
+Whitewater Region,Ontario,3557,ON,7009
+Madawaska Valley,Ontario,3557,ON,4123
+Deep River,Ontario,3557,ON,4109
+Bonnechere Valley,Ontario,3557,ON,3674
+Laurentian Hills,Ontario,3557,ON,2961
+Admaston/Bromley,Ontario,3557,ON,2935
+North Algona Wilberforce,Ontario,3557,ON,2915
+Horton,Ontario,3557,ON,2887
+Greater Madawaska,Ontario,3557,ON,2518
+"Killaloe, Hagarty and Richards",Ontario,3557,ON,2420
+"Brudenell, Lyndoch and Raglan",Ontario,3557,ON,1503
+South Algonquin,Ontario,3557,ON,1096
+Beachburg,Ontario,3557,ON,1054
+Timmins,Ontario,3556,ON,41788
+Kapuskasing,Ontario,3556,ON,8292
+Cochrane,Ontario,3556,ON,5321
+Hearst,Ontario,3556,ON,5070
+Iroquois Falls,Ontario,3556,ON,4537
+Black River-Matheson,Ontario,3556,ON,2438
+Moosonee,Ontario,3556,ON,1481
+Smooth Rock Falls,Ontario,3556,ON,1330
+Moonbeam,Ontario,3556,ON,1231
+Peterborough,Ontario,3555,ON,82094
+Selwyn,Ontario,3555,ON,17060
+Cavan Monaghan,Ontario,3555,ON,8829
+Douro-Dummer,Ontario,3555,ON,6709
+Otonabee-South Monaghan,Ontario,3555,ON,6670
+Trent Lakes,Ontario,3555,ON,5397
+Havelock-Belmont-Methuen,Ontario,3555,ON,4530
+Asphodel-Norwood,Ontario,3555,ON,4109
+North Kawartha,Ontario,3555,ON,2479
+Mississauga,Ontario,3553,ON,721599
+Brampton,Ontario,3553,ON,593638
+Caledon,Ontario,3553,ON,66502
+Ottawa,Ontario,3551,ON,989567
+Kenora,Ontario,3549,ON,15096
+Dryden,Ontario,3549,ON,7749
+Fort Frances,Ontario,3549,ON,7739
+Sioux Lookout,Ontario,3549,ON,5272
+Red Lake,Ontario,3549,ON,4107
+Atikokan,Ontario,3549,ON,2753
+Emo,Ontario,3549,ON,1333
+Ignace,Ontario,3549,ON,1202
+Sioux Narrows-Nestor Falls,Ontario,3549,ON,1082
+North Bay,Ontario,3547,ON,51553
+West Nipissing / Nipissing Ouest,Ontario,3547,ON,14364
+Parry Sound,Ontario,3547,ON,6408
+East Ferris,Ontario,3547,ON,4750
+Seguin,Ontario,3547,ON,4304
+Callander,Ontario,3547,ON,3863
+Powassan,Ontario,3547,ON,3455
+McDougall,Ontario,3547,ON,2702
+Perry,Ontario,3547,ON,2454
+Mattawa,Ontario,3547,ON,1993
+Bonfield,Ontario,3547,ON,1975
+Nipissing,Ontario,3547,ON,1707
+Strong,Ontario,3547,ON,1439
+Armour,Ontario,3547,ON,1414
+Magnetawan,Ontario,3547,ON,1390
+Chisholm,Ontario,3547,ON,1291
+Carling,Ontario,3547,ON,1125
+South River,Ontario,3547,ON,1114
+McKellar,Ontario,3547,ON,1111
+Papineau-Cameron,Ontario,3547,ON,1016
+St. Catharines,Ontario,3546,ON,309319
+Niagara Falls,Ontario,3546,ON,308596
+Welland,Ontario,3546,ON,52293
+Fort Erie,Ontario,3546,ON,30710
+Grimsby,Ontario,3546,ON,27314
+Lincoln,Ontario,3546,ON,23787
+Thorold,Ontario,3546,ON,18801
+Port Colborne,Ontario,3546,ON,18306
+Niagara-on-the-Lake,Ontario,3546,ON,17511
+Pelham,Ontario,3546,ON,17110
+West Lincoln,Ontario,3546,ON,14500
+Wainfleet,Ontario,3546,ON,6372
+London,Ontario,3544,ON,383822
+Strathroy-Caradoc,Ontario,3544,ON,20867
+Middlesex Centre,Ontario,3544,ON,17262
+Thames Centre,Ontario,3544,ON,13191
+North Middlesex,Ontario,3544,ON,6352
+Southwest Middlesex,Ontario,3544,ON,5723
+Lucan Biddulph,Ontario,3544,ON,4700
+Adelaide-Metcalfe,Ontario,3544,ON,2990
+Komoka,Ontario,3544,ON,1754
+Brockville,Ontario,3543,ON,21854
+North Grenville,Ontario,3543,ON,16451
+Mississippi Mills,Ontario,3543,ON,13163
+Carleton Place,Ontario,3543,ON,11901
+Rideau Lakes,Ontario,3543,ON,10207
+Elizabethtown-Kitley,Ontario,3543,ON,9854
+Leeds and the Thousand Islands,Ontario,3543,ON,9465
+Smiths Falls,Ontario,3543,ON,8780
+Drummond/North Elmsley,Ontario,3543,ON,7773
+Beckwith,Ontario,3543,ON,7644
+Augusta,Ontario,3543,ON,7353
+Edwardsburgh/Cardinal,Ontario,3543,ON,6959
+Perth,Ontario,3543,ON,5930
+Front of Yonge,Ontario,3543,ON,5710
+Tay Valley,Ontario,3543,ON,5665
+Lanark Highlands,Ontario,3543,ON,5338
+Gananoque,Ontario,3543,ON,5159
+Prescott,Ontario,3543,ON,3965
+Montague,Ontario,3543,ON,3761
+Merrickville,Ontario,3543,ON,3067
+Athens,Ontario,3543,ON,3013
+Sarnia,Ontario,3542,ON,71594
+St. Clair,Ontario,3542,ON,14086
+Lambton Shores,Ontario,3542,ON,10631
+Plympton-Wyoming,Ontario,3542,ON,7576
+Petrolia,Ontario,3542,ON,5742
+Warwick,Ontario,3542,ON,3692
+Enniskillen,Ontario,3542,ON,2796
+Alvinston,Ontario,3542,ON,2411
+Point Edward,Ontario,3542,ON,2037
+Dawn-Euphemia,Ontario,3542,ON,1967
+South Frontenac,Ontario,3541,ON,18646
+Loyalist,Ontario,3541,ON,16971
+Greater Napanee,Ontario,3541,ON,15892
+Stone Mills,Ontario,3541,ON,7702
+Central Frontenac,Ontario,3541,ON,4373
+Addington Highlands,Ontario,3541,ON,2323
+North Frontenac,Ontario,3541,ON,1898
+Frontenac Islands,Ontario,3541,ON,1760
+Chatham,Ontario,3540,ON,101647
+Stratford,Ontario,3539,ON,31465
+North Perth,Ontario,3539,ON,13130
+Perth East,Ontario,3539,ON,12261
+South Huron,Ontario,3539,ON,10096
+Huron East,Ontario,3539,ON,9138
+West Perth,Ontario,3539,ON,8865
+Goderich,Ontario,3539,ON,7628
+Central Huron,Ontario,3539,ON,7576
+St. Marys,Ontario,3539,ON,7265
+Bluewater,Ontario,3539,ON,7136
+Ashfield-Colborne-Wawanosh,Ontario,3539,ON,5422
+North Huron,Ontario,3539,ON,4932
+Howick,Ontario,3539,ON,3873
+Perth South,Ontario,3539,ON,3810
+Morris-Turnberry,Ontario,3539,ON,3496
+Bayfield,Ontario,3539,ON,1218
+Hensall,Ontario,3539,ON,1078
+Belleville,Ontario,3538,ON,50716
+Quinte West,Ontario,3538,ON,43577
+Tweed,Ontario,3538,ON,6044
+Stirling-Rawdon,Ontario,3538,ON,4882
+Centre Hastings,Ontario,3538,ON,4774
+Tyendinaga,Ontario,3538,ON,4297
+Hastings Highlands,Ontario,3538,ON,4078
+Marmora and Lake,Ontario,3538,ON,3953
+Bancroft,Ontario,3538,ON,3881
+Madoc,Ontario,3538,ON,2078
+Wellington,Ontario,3538,ON,1932
+Deseronto,Ontario,3538,ON,1774
+Faraday,Ontario,3538,ON,1401
+Hamilton,Ontario,3537,ON,693645
+Shelburne,Nova Scotia,3566,ON,1743
+Thessalon,Ontario,3526,ON,1279
+Charlottetown,Prince Edward Island,1100,PE,42602
+Summerside,Prince Edward Island,1100,PE,14829
+Stratford,Prince Edward Island,1100,PE,9706
+Cornwall,Prince Edward Island,1100,PE,5348
+Montague,Prince Edward Island,1100,PE,1961
+Kensington,Prince Edward Island,1100,PE,1619
+Miltonvale Park,Prince Edward Island,1100,PE,1153
+Alberton,Prince Edward Island,1100,PE,1145
+Souris,Prince Edward Island,1100,PE,1053
+Malpeque,Prince Edward Island,1100,PE,1029
+Laval,Quebec,2413,QC,422993
+Chisasibi,Quebec,2418,QC,4872
+Mistissini,Quebec,2418,QC,3523
+Waskaganish,Quebec,2418,QC,2196
+Waswanipi,Quebec,2418,QC,1759
+Wemindji,Quebec,2418,QC,1444
+Kuujjuaq,Quebec,2417,QC,2754
+Povungnituk,Quebec,2417,QC,1779
+Inukjuak,Quebec,2417,QC,1757
+Salluit,Quebec,2417,QC,1483
+Longueuil,Quebec,2416,QC,239700
+Saint-Jean-sur-Richelieu,Quebec,2416,QC,92394
+Brossard,Quebec,2416,QC,85721
+Chateauguay,Quebec,2416,QC,70812
+Saint-Hyacinthe,Quebec,2416,QC,59614
+Beloeil,Quebec,2416,QC,50796
+Salaberry-de-Valleyfield,Quebec,2416,QC,42410
+Sorel-Tracy,Quebec,2416,QC,41629
+Boucherville,Quebec,2416,QC,40753
+Vaudreuil-Dorion,Quebec,2416,QC,38117
+Sainte-Julie,Quebec,2416,QC,30104
+Chambly,Quebec,2416,QC,29120
+Saint-Constant,Quebec,2416,QC,27359
+Saint-Bruno-de-Montarville,Quebec,2416,QC,26107
+La Prairie,Quebec,2416,QC,23357
+Saint-Lambert,Quebec,2416,QC,21861
+Candiac,Quebec,2416,QC,21047
+Varennes,Quebec,2416,QC,20994
+Saint-Lazare,Quebec,2416,QC,19889
+Mont-Saint-Hilaire,Quebec,2416,QC,18200
+Sainte-Catherine,Quebec,2416,QC,16762
+Saint-Basile-le-Grand,Quebec,2416,QC,16736
+Pincourt,Quebec,2416,QC,14558
+Mercier,Quebec,2416,QC,13115
+Beauharnois,Quebec,2416,QC,12011
+Saint-Amable,Quebec,2416,QC,10870
+L'Ile-Perrot,Quebec,2416,QC,10756
+Notre-Dame-de-l'Ile-Perrot,Quebec,2416,QC,10756
+Marieville,Quebec,2416,QC,10094
+Carignan,Quebec,2416,QC,9462
+Otterburn Park,Quebec,2416,QC,8450
+Acton Vale,Quebec,2416,QC,7664
+Rigaud,Quebec,2416,QC,7566
+Delson,Quebec,2416,QC,7462
+Saint-Remi,Quebec,2416,QC,7265
+Coteau-du-Lac,Quebec,2416,QC,7044
+Saint-Zotique,Quebec,2416,QC,6773
+Contrecoeur,Quebec,2416,QC,6252
+Les Cedres,Quebec,2416,QC,6079
+Vercheres,Quebec,2416,QC,5692
+Saint-Cesaire,Quebec,2416,QC,5686
+McMasterville,Quebec,2416,QC,5615
+Saint-Philippe,Quebec,2416,QC,5495
+Richelieu,Quebec,2416,QC,5467
+Sainte-Martine,Quebec,2416,QC,5461
+Saint-Pie,Quebec,2416,QC,5438
+Hudson,Quebec,2416,QC,5165
+Saint-Mathias-sur-Richelieu,Quebec,2416,QC,4618
+Les Coteaux,Quebec,2416,QC,4568
+Napierville,Quebec,2416,QC,3899
+Ormstown,Quebec,2416,QC,3595
+Saint-Jean-Baptiste,Quebec,2416,QC,3191
+Mont-Saint-Gregoire,Quebec,2416,QC,3086
+Saint-Liboire,Quebec,2416,QC,3051
+Sainte-Marie-Madeleine,Quebec,2416,QC,2935
+Saint-Michel,Quebec,2416,QC,2884
+Sainte-Anne-de-Sorel,Quebec,2416,QC,2742
+Rougemont,Quebec,2416,QC,2723
+Lacolle,Quebec,2416,QC,2680
+Saint-Anicet,Quebec,2416,QC,2626
+Saint-Mathieu-de-Beloeil,Quebec,2416,QC,2624
+Saint-Isidore,Quebec,2416,QC,2581
+Saint-Chrysostome,Quebec,2416,QC,2522
+Saint-Damase,Quebec,2416,QC,2506
+Sainte-Victoire-de-Sorel,Quebec,2416,QC,2501
+Saint-Alexandre,Quebec,2416,QC,2495
+La Presentation,Quebec,2416,QC,2466
+Huntingdon,Quebec,2416,QC,2444
+Sainte-Madeleine,Quebec,2416,QC,2356
+Saint-Dominique,Quebec,2416,QC,2327
+Lery,Quebec,2416,QC,2307
+Saint-Denis,Quebec,2416,QC,2285
+Saint-Polycarpe,Quebec,2416,QC,2224
+Saint-Roch-de-Richelieu,Quebec,2416,QC,2122
+Hinchinbrooke,Quebec,2416,QC,2103
+Upton,Quebec,2416,QC,2075
+Sainte-Anne-de-Sabrevois,Quebec,2416,QC,2074
+Saint-Marc-sur-Richelieu,Quebec,2416,QC,2050
+Terrasse-Vaudreuil,Quebec,2416,QC,1986
+Saint-Patrice-de-Sherrington,Quebec,2416,QC,1971
+Riviere-Beaudette,Quebec,2416,QC,1885
+Saint-Mathieu,Quebec,2416,QC,1879
+Saint-Paul-de-l'Ile-aux-Noix,Quebec,2416,QC,1877
+Saint-Cyprien-de-Napierville,Quebec,2416,QC,1869
+Saint-Valerien-de-Milton,Quebec,2416,QC,1840
+Saint-Blaise-sur-Richelieu,Quebec,2416,QC,1837
+Sainte-Angele-de-Monnoir,Quebec,2416,QC,1812
+Saint-Robert,Quebec,2416,QC,1794
+Hemmingford,Quebec,2416,QC,1747
+Saint-Clet,Quebec,2416,QC,1738
+Saint-Ours,Quebec,2416,QC,1721
+Sainte-Clotilde,Quebec,2416,QC,1704
+Yamaska,Quebec,2416,QC,1687
+Saint-Jacques-le-Mineur,Quebec,2416,QC,1672
+Saint-Antoine-sur-Richelieu,Quebec,2416,QC,1659
+Saint-Stanislas-de-Kostka,Quebec,2416,QC,1654
+Yamaska-Est,Quebec,2416,QC,1644
+Saint-Charles-sur-Richelieu,Quebec,2416,QC,1643
+Saint-Joseph-de-Sorel,Quebec,2416,QC,1642
+Sainte-Helene-de-Bagot,Quebec,2416,QC,1637
+Franklin Centre,Quebec,2416,QC,1636
+Saint-Bernard-de-Lacolle,Quebec,2416,QC,1549
+Venise-en-Quebec,Quebec,2416,QC,1547
+Saint-Louis-de-Gonzague,Quebec,2416,QC,1481
+Saint-Theodore-d'Acton,Quebec,2416,QC,1471
+Henryville,Quebec,2416,QC,1464
+Godmanchester,Quebec,2416,QC,1417
+Saint-Simon,Quebec,2416,QC,1413
+Vaudreuil-sur-le-Lac,Quebec,2416,QC,1359
+Sainte-Barbe,Quebec,2416,QC,1324
+Saint-Edouard,Quebec,2416,QC,1312
+Noyan,Quebec,2416,QC,1297
+Saint-Hugues,Quebec,2416,QC,1292
+Roxton Falls,Quebec,2416,QC,1265
+Saint-Jude,Quebec,2416,QC,1235
+Akwesasne,Quebec,2416,QC,1202
+Tres-Saint-Sacrement,Quebec,2416,QC,1155
+Saint-Urbain-Premier,Quebec,2416,QC,1148
+Roxton-Sud,Quebec,2416,QC,1086
+Sainte-Marthe,Quebec,2416,QC,1075
+Saint-Georges-de-Clarenceville,Quebec,2416,QC,1056
+Saint-Jerome,Quebec,2415,QC,69598
+Blainville,Quebec,2415,QC,56363
+Mirabel,Quebec,2415,QC,50513
+Saint-Eustache,Quebec,2415,QC,44154
+Boisbriand,Quebec,2415,QC,26884
+Sainte-Therese,Quebec,2415,QC,26025
+Sainte-Marthe-sur-le-Lac,Quebec,2415,QC,18074
+Deux-Montagnes,Quebec,2415,QC,17553
+Sainte-Anne-des-Plaines,Quebec,2415,QC,14421
+Rosemere,Quebec,2415,QC,14294
+Mont-Laurier,Quebec,2415,QC,13779
+Sainte-Sophie,Quebec,2415,QC,13375
+Saint-Colomban,Quebec,2415,QC,13080
+Lachute,Quebec,2415,QC,12551
+Prevost,Quebec,2415,QC,12171
+Sainte-Adele,Quebec,2415,QC,12137
+Sainte-Agathe-des-Monts,Quebec,2415,QC,10223
+Saint-Sauveur,Quebec,2415,QC,9881
+Mont-Tremblant,Quebec,2415,QC,9646
+Bois-des-Filion,Quebec,2415,QC,9485
+Saint-Hippolyte,Quebec,2415,QC,8083
+Brownsburg,Quebec,2415,QC,7122
+Pointe-Calumet,Quebec,2415,QC,6396
+Saint-Joseph-du-Lac,Quebec,2415,QC,6195
+Val-David,Quebec,2415,QC,5209
+Riviere-Rouge,Quebec,2415,QC,4645
+Oka,Quebec,2415,QC,3969
+Morin-Heights,Quebec,2415,QC,3925
+Saint-Adolphe-d'Howard,Quebec,2415,QC,3702
+Saint-Faustin--Lac-Carre,Quebec,2415,QC,3499
+Sainte-Anne-des-Lacs,Quebec,2415,QC,3363
+Saint-Andre-d'Argenteuil,Quebec,2415,QC,3275
+Ferme-Neuve,Quebec,2415,QC,2822
+Val-Morin,Quebec,2415,QC,2772
+Sainte-Marguerite-du-Lac-Masson,Quebec,2415,QC,2763
+Grenville-sur-la-Rouge,Quebec,2415,QC,2746
+Piedmont,Quebec,2415,QC,2721
+Lac-des-Ecorces,Quebec,2415,QC,2713
+Labelle,Quebec,2415,QC,2445
+Lac-Nominingue,Quebec,2415,QC,2019
+Lac-Superieur,Quebec,2415,QC,1892
+Gore,Quebec,2415,QC,1775
+Saint-Placide,Quebec,2415,QC,1715
+Mille-Isles,Quebec,2415,QC,1629
+Grenville,Quebec,2415,QC,1577
+Amherst,Quebec,2415,QC,1524
+Notre-Dame-du-Laus,Quebec,2415,QC,1518
+Wentworth-Nord,Quebec,2415,QC,1381
+La Conception,Quebec,2415,QC,1287
+Sainte-Lucie-des-Laurentides,Quebec,2415,QC,1269
+La Minerve,Quebec,2415,QC,1234
+La Macaza,Quebec,2415,QC,1053
+Brebeuf,Quebec,2415,QC,1012
+Terrebonne,Quebec,2414,QC,111575
+Repentigny,Quebec,2414,QC,84965
+Mascouche,Quebec,2414,QC,42491
+L'Assomption,Quebec,2414,QC,20065
+Joliette,Quebec,2414,QC,19621
+Saint-Lin--Laurentides,Quebec,2414,QC,17463
+Lavaltrie,Quebec,2414,QC,13657
+Saint-Charles-Borromee,Quebec,2414,QC,13321
+Rawdon,Quebec,2414,QC,10416
+Lorraine,Quebec,2414,QC,9352
+Sainte-Julienne,Quebec,2414,QC,9331
+Notre-Dame-des-Prairies,Quebec,2414,QC,8868
+Saint-Felix-de-Valois,Quebec,2414,QC,6029
+Saint-Calixte,Quebec,2414,QC,5934
+Charlemagne,Quebec,2414,QC,5853
+L'Epiphanie,Quebec,2414,QC,5353
+Saint-Paul,Quebec,2414,QC,5122
+Saint-Roch-de-l'Achigan,Quebec,2414,QC,4892
+Chertsey,Quebec,2414,QC,4836
+Lanoraie,Quebec,2414,QC,4787
+Saint-Jean-de-Matha,Quebec,2414,QC,4335
+Saint-Donat,Quebec,2414,QC,4130
+Berthierville,Quebec,2414,QC,4091
+Saint-Jacques,Quebec,2414,QC,4021
+Crabtree,Quebec,2414,QC,3887
+Saint-Ambroise-de-Kildare,Quebec,2414,QC,3747
+Saint-Sulpice,Quebec,2414,QC,3273
+Saint-Thomas,Quebec,2414,QC,3193
+Saint-Alphonse-Rodriguez,Quebec,2414,QC,3134
+Sainte-Melanie,Quebec,2414,QC,2892
+Saint-Gabriel,Quebec,2414,QC,2844
+Saint-Gabriel-de-Brandon,Quebec,2414,QC,2679
+Notre-Dame-de-Lourdes,Quebec,2414,QC,2595
+Saint-Michel-des-Saints,Quebec,2414,QC,2436
+Sainte-Genevieve-de-Berthier,Quebec,2414,QC,2365
+Saint-Come,Quebec,2414,QC,2198
+Saint-Ignace-de-Loyola,Quebec,2414,QC,2086
+Manouane,Quebec,2414,QC,2060
+Mandeville,Quebec,2414,QC,2043
+Saint-Damien,Quebec,2414,QC,2020
+Saint-Liguori,Quebec,2414,QC,1976
+Saint-Esprit,Quebec,2414,QC,1963
+Saint-Barthelemy,Quebec,2414,QC,1883
+Sainte-Beatrix,Quebec,2414,QC,1849
+Saint-Cuthbert,Quebec,2414,QC,1839
+Sainte-Emelie-de-l'Energie,Quebec,2414,QC,1644
+Sainte-Marcelline-de-Kildare,Quebec,2414,QC,1567
+Sainte-Elisabeth,Quebec,2414,QC,1559
+Saint-Alexis,Quebec,2414,QC,1267
+Saint-Zenon,Quebec,2414,QC,1250
+Sainte-Marie-Salome,Quebec,2414,QC,1164
+Saint-Norbert,Quebec,2414,QC,1059
+Levis,Quebec,2412,QC,143414
+Thetford Mines,Quebec,2412,QC,25709
+Sainte-Marie,Quebec,2412,QC,12889
+Montmagny,Quebec,2412,QC,11491
+Saint-Lambert-de-Lauzon,Quebec,2412,QC,6647
+Beauceville,Quebec,2412,QC,6354
+Saint-Apollinaire,Quebec,2412,QC,6110
+Saint-Henri,Quebec,2412,QC,5023
+Saint-Joseph-de-Beauce,Quebec,2412,QC,4722
+Lac-Etchemin,Quebec,2412,QC,4061
+L'Islet-sur-Mer,Quebec,2412,QC,3999
+Saint-Prosper,Quebec,2412,QC,3605
+Saint-Agapit,Quebec,2412,QC,3567
+Saint-Anselme,Quebec,2412,QC,3458
+Sainte-Claire,Quebec,2412,QC,3325
+Saint-Jean-Port-Joli,Quebec,2412,QC,3304
+Saint-Come--Liniere,Quebec,2412,QC,3274
+Cap-Saint-Ignace,Quebec,2412,QC,3045
+Sainte-Luce,Quebec,2412,QC,2851
+Adstock,Quebec,2412,QC,2806
+Saint-Pamphile,Quebec,2412,QC,2685
+Laurier-Station,Quebec,2412,QC,2634
+Disraeli,Quebec,2412,QC,2502
+Saint-Raphael,Quebec,2412,QC,2463
+Saint-Martin,Quebec,2412,QC,2462
+Saint-Victor,Quebec,2412,QC,2430
+Saint-Ephrem-de-Beauce,Quebec,2412,QC,2400
+Scott,Quebec,2412,QC,2352
+Sainte-Croix,Quebec,2412,QC,2352
+Saint-Gedeon-de-Beauce,Quebec,2412,QC,2277
+Saint-Charles-de-Bellechasse,Quebec,2412,QC,2246
+East Broughton,Quebec,2412,QC,2229
+Saint-Gilles,Quebec,2412,QC,2138
+Saint-Bernard,Quebec,2412,QC,2131
+Saint-Elzear,Quebec,2412,QC,2107
+Saint-Damien-de-Buckland,Quebec,2412,QC,2071
+Saint-Gervais,Quebec,2412,QC,2058
+Vallee-Jonction,Quebec,2412,QC,1940
+Saint-Joseph-de-Coleraine,Quebec,2412,QC,1870
+Sainte-Justine,Quebec,2412,QC,1845
+Saint-Michel-de-Bellechasse,Quebec,2412,QC,1816
+La Guadeloupe,Quebec,2412,QC,1787
+Saint-Zacharie,Quebec,2412,QC,1751
+Saint-Benoit-Labre,Quebec,2412,QC,1612
+Saint-Honore-de-Shenley,Quebec,2412,QC,1610
+Saint-Antoine-de-Tilly,Quebec,2412,QC,1604
+Saint-Francois-de-la-Riviere-du-Sud,Quebec,2412,QC,1596
+Saint-Flavien,Quebec,2412,QC,1578
+Saint-Malachie,Quebec,2412,QC,1489
+Tring-Jonction,Quebec,2412,QC,1473
+Saint-Odilon-de-Cranbourne,Quebec,2412,QC,1459
+Saint-Aubert,Quebec,2412,QC,1409
+Berthier-sur-Mer,Quebec,2412,QC,1398
+Frampton,Quebec,2412,QC,1393
+Saint-Edouard-de-Lotbiniere,Quebec,2412,QC,1248
+Notre-Dame-des-Pins,Quebec,2412,QC,1227
+Sainte-Henedine,Quebec,2412,QC,1212
+Saint-Lazare-de-Bellechasse,Quebec,2412,QC,1172
+Saints-Anges,Quebec,2412,QC,1149
+Sainte-Agathe-de-Lotbiniere,Quebec,2412,QC,1145
+Saint-Leon-de-Standon,Quebec,2412,QC,1128
+Sainte-Marguerite,Quebec,2412,QC,1107
+Saint-Narcisse-de-Beaurivage,Quebec,2412,QC,1091
+Saint-Frederic,Quebec,2412,QC,1085
+Saint-Patrice-de-Beaurivage,Quebec,2412,QC,1080
+Saint-Vallier,Quebec,2412,QC,1046
+Coleraine,Quebec,2412,QC,1043
+Saint-Sylvestre,Quebec,2412,QC,1035
+Gaspe,Quebec,2411,QC,15163
+Les Iles-de-la-Madeleine,Quebec,2411,QC,12010
+Chandler,Quebec,2411,QC,7703
+Sainte-Anne-des-Monts,Quebec,2411,QC,6933
+Carleton-sur-Mer,Quebec,2411,QC,3991
+New Richmond,Quebec,2411,QC,3810
+Grande-Riviere,Quebec,2411,QC,3456
+Perce,Quebec,2411,QC,3312
+Paspebiac,Quebec,2411,QC,3198
+Dalhousie,New Brunswick,2411,QC,3126
+Bonaventure,Quebec,2411,QC,2775
+Cap-Chat,Quebec,2411,QC,2623
+Maria,Quebec,2411,QC,2536
+Port-Daniel--Gascons,Quebec,2411,QC,2453
+Caplan,Quebec,2411,QC,2039
+Nouvelle,Quebec,2411,QC,1689
+New Carlisle,Quebec,2411,QC,1388
+Listuguj,Quebec,2411,QC,1241
+Saint-Simeon,Quebec,2411,QC,1179
+Grande-Vallee,Quebec,2411,QC,1137
+Saint-Maxime-du-Mont-Louis,Quebec,2411,QC,1118
+Sainte-Therese-de-Gaspe,Quebec,2411,QC,1055
+Chibougamau,Quebec,2410,QC,7504
+Lebel-sur-Quevillon,Quebec,2410,QC,2187
+Chapais,Quebec,2410,QC,1610
+Eeyou Istchee Baie-James,Quebec,2410,QC,1589
+Matagami,Quebec,2410,QC,1526
+Sept-Iles,Quebec,2409,QC,28534
+Baie-Comeau,Quebec,2409,QC,21536
+Port-Cartier,Quebec,2409,QC,6651
+Havre-Saint-Pierre,Quebec,2409,QC,3460
+Forestville,Quebec,2409,QC,3270
+Fermont,Quebec,2409,QC,2474
+Pessamit,Quebec,2409,QC,2256
+Pointe-Lebel,Quebec,2409,QC,1973
+Les Escoumins,Quebec,2409,QC,1891
+Sacre-Coeur-Saguenay,Quebec,2409,QC,1803
+Uashat,Quebec,2409,QC,1592
+Maliotenam,Quebec,2409,QC,1542
+Blanc-Sablon,Quebec,2409,QC,1118
+Longue-Rive,Quebec,2409,QC,1026
+Rouyn-Noranda,Quebec,2408,QC,42334
+Val-d'Or,Quebec,2408,QC,31862
+Amos,Quebec,2408,QC,12823
+La Sarre,Quebec,2408,QC,7719
+Malartic,Quebec,2408,QC,3449
+Senneterre,Quebec,2408,QC,2953
+Macamic,Quebec,2408,QC,2734
+Ville-Marie,Quebec,2408,QC,2595
+Temiscaming,Quebec,2408,QC,2385
+Barraute,Quebec,2408,QC,1980
+Palmarolle,Quebec,2408,QC,1465
+Riviere-Heva,Quebec,2408,QC,1433
+Amulet,Quebec,2408,QC,1340
+Lorrainville,Quebec,2408,QC,1272
+Trecesson,Quebec,2408,QC,1138
+Saint-Bruno-de-Guigues,Quebec,2408,QC,1100
+Notre-Dame-du-Nord,Quebec,2408,QC,1075
+Gatineau,Quebec,2407,QC,276245
+Val-des-Monts,Quebec,2407,QC,11582
+Cantley,Quebec,2407,QC,10699
+La Peche,Quebec,2407,QC,7863
+Old Chelsea,Quebec,2407,QC,6909
+Pontiac,Quebec,2407,QC,5850
+L'Ange-Gardien,Quebec,2407,QC,5464
+Maniwaki,Quebec,2407,QC,3930
+Saint-Andre-Avellin,Quebec,2407,QC,3749
+Thurso,Quebec,2407,QC,2818
+Gracefield,Quebec,2407,QC,2462
+Mansfield-et-Pontefract,Quebec,2407,QC,2285
+Papineauville,Quebec,2407,QC,2101
+Deleage,Quebec,2407,QC,1856
+Messines,Quebec,2407,QC,1608
+Shawville,Quebec,2407,QC,1587
+Ripon,Quebec,2407,QC,1542
+Fort-Coulonge,Quebec,2407,QC,1433
+L'Isle-aux-Allumettes,Quebec,2407,QC,1334
+Clarendon,Quebec,2407,QC,1256
+Grand-Remous,Quebec,2407,QC,1168
+Plaisance,Quebec,2407,QC,1088
+Bristol,Quebec,2407,QC,1036
+Montreal,Quebec,2406,QC,3519595
+Dollard-des-Ormeaux,Quebec,2406,QC,49637
+Cote-Saint-Luc,Quebec,2406,QC,32448
+Pointe-Claire,Quebec,2406,QC,31380
+Kirkland,Quebec,2406,QC,20151
+Westmount,Quebec,2406,QC,19931
+Mont-Royal,Quebec,2406,QC,19503
+Beaconsfield,Quebec,2406,QC,19115
+Dorval,Quebec,2406,QC,18980
+Hampstead,Quebec,2406,QC,7153
+Montreal-Ouest,Quebec,2406,QC,5085
+Sainte-Anne-de-Bellevue,Quebec,2406,QC,4958
+Baie-d'Urfe,Quebec,2406,QC,3823
+Montreal-Est,Quebec,2406,QC,1082
+Sherbrooke,Quebec,2405,QC,161323
+Granby,Quebec,2405,QC,63433
+Lac-Brome,Quebec,2405,QC,58889
+Magog,Quebec,2405,QC,25358
+Cowansville,Quebec,2405,QC,12489
+Coaticook,Quebec,2405,QC,8698
+Farnham,Quebec,2405,QC,8330
+Bromont,Quebec,2405,QC,7649
+Asbestos,Quebec,2405,QC,7096
+Val-Shefford,Quebec,2405,QC,6711
+Lac-Megantic,Quebec,2405,QC,5932
+Cookshire,Quebec,2405,QC,5393
+Windsor,Quebec,2405,QC,5367
+Waterloo,Quebec,2405,QC,4410
+Mont-Orford,Quebec,2405,QC,4337
+Danville,Quebec,2405,QC,4070
+Sutton,Quebec,2405,QC,4012
+Roxton Pond,Quebec,2405,QC,3786
+East Angus,Quebec,2405,QC,3741
+Dunham,Quebec,2405,QC,3471
+Saint-Denis-de-Brompton,Quebec,2405,QC,3402
+Richmond,Quebec,2405,QC,3232
+Saint-Alphonse-de-Granby,Quebec,2405,QC,3125
+Compton,Quebec,2405,QC,3112
+Ascot Corner,Quebec,2405,QC,2891
+Saint-Paul-d'Abbotsford,Quebec,2405,QC,2870
+Stanstead,Quebec,2405,QC,2857
+Stoke,Quebec,2405,QC,2765
+Bedford,Quebec,2405,QC,2684
+Weedon-Centre,Quebec,2405,QC,2683
+Sainte-Catherine-de-Hatley,Quebec,2405,QC,2464
+Brigham,Quebec,2405,QC,2457
+Valcourt,Quebec,2405,QC,2349
+Sainte-Cecile-de-Milton,Quebec,2405,QC,2128
+Saint-Francois-Xavier-de-Brompton,Quebec,2405,QC,2101
+Waterville,Quebec,2405,QC,2028
+Hatley,Quebec,2405,QC,2003
+Austin,Quebec,2405,QC,1880
+Potton,Quebec,2405,QC,1849
+Eastman,Quebec,2405,QC,1843
+Dudswell,Quebec,2405,QC,1771
+Frontenac,Quebec,2405,QC,1650
+Cleveland,Quebec,2405,QC,1609
+Lambton,Quebec,2405,QC,1584
+Val-Joli,Quebec,2405,QC,1501
+Wotton,Quebec,2405,QC,1453
+Nantes,Quebec,2405,QC,1374
+Sainte-Brigide-d'Iberville,Quebec,2405,QC,1331
+Saint-Ludger,Quebec,2405,QC,1255
+Racine,Quebec,2405,QC,1252
+Saint-Armand,Quebec,2405,QC,1248
+Bury,Quebec,2405,QC,1174
+Saint-Joachim-de-Shefford,Quebec,2405,QC,1171
+Sainte-Sabine,Quebec,2405,QC,1120
+Frelighsburg,Quebec,2405,QC,1111
+Ayer's Cliff,Quebec,2405,QC,1109
+Saint-Claude,Quebec,2405,QC,1106
+Lac-Drolet,Quebec,2405,QC,1071
+Stukely-Sud,Quebec,2405,QC,1058
+Melbourne,Quebec,2405,QC,1004
+Trois-Rivieres,Quebec,2404,QC,134413
+Drummondville,Quebec,2404,QC,68601
+Shawinigan,Quebec,2404,QC,50060
+Victoriaville,Quebec,2404,QC,45309
+Becancour,Quebec,2404,QC,12438
+La Tuque,Quebec,2404,QC,11001
+Nicolet,Quebec,2404,QC,7828
+Louiseville,Quebec,2404,QC,7517
+Plessisville,Quebec,2404,QC,6688
+Princeville,Quebec,2404,QC,5693
+Notre-Dame-du-Mont-Carmel,Quebec,2404,QC,5467
+Warwick,Quebec,2404,QC,4766
+Saint-Germain-de-Grantham,Quebec,2404,QC,4551
+Saint-Boniface,Quebec,2404,QC,4511
+Saint-Cyrille-de-Wendover,Quebec,2404,QC,4389
+Saint-Etienne-des-Gres,Quebec,2404,QC,4217
+Saint-Tite,Quebec,2404,QC,3880
+Saint-Alexis-des-Monts,Quebec,2404,QC,3046
+Saint-Christophe-d'Arthabaska,Quebec,2404,QC,2892
+Yamachiche,Quebec,2404,QC,2787
+Saint-Maurice,Quebec,2404,QC,2775
+Sainte-Thecle,Quebec,2404,QC,2478
+Wickham,Quebec,2404,QC,2470
+Saint-Leonard-d'Aston,Quebec,2404,QC,2271
+Maskinonge,Quebec,2404,QC,2253
+Pierreville,Quebec,2404,QC,2176
+Sainte-Anne-de-la-Perade,Quebec,2404,QC,2072
+Saint-Ferdinand,Quebec,2404,QC,2067
+Obedjiwan,Quebec,2404,QC,2019
+Kingsey Falls,Quebec,2404,QC,2000
+Saint-Francois-du-Lac,Quebec,2404,QC,1957
+Saint-Narcisse,Quebec,2404,QC,1762
+Saint-Elie-de-Caxton,Quebec,2404,QC,1676
+Champlain,Quebec,2404,QC,1664
+Lyster,Quebec,2404,QC,1628
+Sainte-Clotilde-de-Horton,Quebec,2404,QC,1616
+Saint-Lucien,Quebec,2404,QC,1584
+Saint-Felix-de-Kingsey,Quebec,2404,QC,1563
+Saint-Guillaume,Quebec,2404,QC,1547
+Saint-Paulin,Quebec,2404,QC,1534
+Saint-Albert,Quebec,2404,QC,1526
+Laurierville,Quebec,2404,QC,1454
+Tingwick,Quebec,2404,QC,1410
+Saint-Mathieu-du-Parc,Quebec,2404,QC,1407
+Notre-Dame-du-Bon-Conseil,Quebec,2404,QC,1404
+Sainte-Ursule,Quebec,2404,QC,1375
+Lac-aux-Sables,Quebec,2404,QC,1373
+Herouxville,Quebec,2404,QC,1340
+Sainte-Anne-du-Sault,Quebec,2404,QC,1290
+Saint-Valere,Quebec,2404,QC,1286
+Saint-Majorique-de-Grantham,Quebec,2404,QC,1251
+Saint-Pierre-les-Becquets,Quebec,2404,QC,1223
+Wemotaci,Quebec,2404,QC,1213
+L'Avenir,Quebec,2404,QC,1202
+Saint-Norbert-d'Arthabaska,Quebec,2404,QC,1185
+Saint-Barnabe,Quebec,2404,QC,1179
+Saint-Eugene,Quebec,2404,QC,1131
+Saint-Wenceslas,Quebec,2404,QC,1064
+Sainte-Genevieve-de-Batiscan,Quebec,2404,QC,1060
+Saint-Justin,Quebec,2404,QC,1060
+Saint-Stanislas,Quebec,2404,QC,1029
+Saint-Bonaventure,Quebec,2404,QC,1017
+Baie-du-Febvre,Quebec,2404,QC,1010
+Durham-Sud,Quebec,2404,QC,1008
+Quebec City,Quebec,2403,QC,705103
+Saint-Augustin-de-Desmaures,Quebec,2403,QC,18141
+L'Ancienne-Lorette,Quebec,2403,QC,16745
+Saint-Raymond,Quebec,2403,QC,9615
+Pont-Rouge,Quebec,2403,QC,8723
+La Malbaie,Quebec,2403,QC,8271
+Beauport,Quebec,2403,QC,7281
+Donnacona,Quebec,2403,QC,7200
+Baie-Saint-Paul,Quebec,2403,QC,7146
+Stoneham-et-Tewkesbury,Quebec,2403,QC,7106
+Boischatel,Quebec,2403,QC,6465
+Sainte-Catherine-de-la-Jacques-Cartier,Quebec,2403,QC,6319
+Sainte-Brigitte-de-Laval,Quebec,2403,QC,5696
+Shannon,Quebec,2403,QC,5086
+Neuville,Quebec,2403,QC,4392
+Beaupre,Quebec,2403,QC,3752
+Portneuf,Quebec,2403,QC,3187
+Clermont,Quebec,2403,QC,3118
+Cap Sante,Quebec,2403,QC,2996
+Saint-Ferreol-les-Neiges,Quebec,2403,QC,2964
+Saint-Gabriel-de-Valcartier,Quebec,2403,QC,2933
+Saint-Marc-des-Carrieres,Quebec,2403,QC,2862
+Sainte-Anne-de-Beaupre,Quebec,2403,QC,2854
+Saint-Basile,Quebec,2403,QC,2463
+Deschambault,Quebec,2403,QC,2220
+Wendake,Quebec,2403,QC,2134
+Saint-Pierre-de-l'Ile-d'Orleans,Quebec,2403,QC,1789
+Fossambault-sur-le-Lac,Quebec,2403,QC,1613
+Saint-Tite-des-Caps,Quebec,2403,QC,1506
+Saint-Casimir,Quebec,2403,QC,1500
+Saint-Urbain,Quebec,2403,QC,1474
+Saint-Ubalde,Quebec,2403,QC,1403
+Les Eboulements,Quebec,2403,QC,1331
+L'Isle-aux-Coudres,Quebec,2403,QC,1279
+Saint-Alban,Quebec,2403,QC,1225
+Saint-Hilarion,Quebec,2403,QC,1181
+Saint-Aime-des-Lacs,Quebec,2403,QC,1073
+Sainte-Petronille,Quebec,2403,QC,1041
+Saint-Leonard-de-Portneuf,Quebec,2403,QC,1019
+Saguenay,Quebec,2402,QC,144746
+Alma,Quebec,2402,QC,30904
+Mistassini,Quebec,2402,QC,14250
+Saint-Felicien,Quebec,2402,QC,10278
+Roberval,Quebec,2402,QC,10227
+Saint-Honore,Quebec,2402,QC,5257
+Metabetchouan-Lac-a-la-Croix,Quebec,2402,QC,4097
+Saint-Ambroise,Quebec,2402,QC,3546
+Normandin,Quebec,2402,QC,3137
+Saint-Prime,Quebec,2402,QC,2758
+Saint-David-de-Falardeau,Quebec,2402,QC,2657
+Saint-Bruno,Quebec,2402,QC,2636
+Herbertville,Quebec,2402,QC,2491
+Hebertville,Quebec,2402,QC,2441
+Albanel,Quebec,2402,QC,2262
+Saint-Nazaire,Quebec,2402,QC,2114
+Saint-Gedeon,Quebec,2402,QC,2001
+L'Ascension-de-Notre-Seigneur,Quebec,2402,QC,1983
+Mashteuiatsh,Quebec,2402,QC,1957
+Saint-Fulgence,Quebec,2402,QC,1949
+Chambord,Quebec,2402,QC,1773
+La Dore,Quebec,2402,QC,1453
+Larouche,Quebec,2402,QC,1277
+Labrecque,Quebec,2402,QC,1215
+L'Anse-Saint-Jean,Quebec,2402,QC,1208
+Lac-Bouchette,Quebec,2402,QC,1174
+Girardville,Quebec,2402,QC,1100
+Sainte-Jeanne-d'Arc,Quebec,2402,QC,1089
+Desbiens,Quebec,2402,QC,1053
+Rimouski,Quebec,2401,QC,48664
+Riviere-du-Loup,Quebec,2401,QC,19447
+Matane,Quebec,2401,QC,14462
+Amqui,Quebec,2401,QC,6322
+Mont-Joli,Quebec,2401,QC,6281
+Temiscouata-sur-le-Lac,Quebec,2401,QC,5096
+La Pocatiere,Quebec,2401,QC,4266
+Saint-Antonin,Quebec,2401,QC,4027
+Saint-Pascal,Quebec,2401,QC,3490
+Trois-Pistoles,Quebec,2401,QC,3456
+Degelis,Quebec,2401,QC,3051
+Saint-Anaclet-de-Lessard,Quebec,2401,QC,3035
+Pohenegamook,Quebec,2401,QC,2770
+Causapscal,Quebec,2401,QC,2458
+Saint-Alexandre-de-Kamouraska,Quebec,2401,QC,2050
+Saint-Georges-de-Cacouna,Quebec,2401,QC,1939
+Saint-Fabien,Quebec,2401,QC,1906
+Sayabec,Quebec,2401,QC,1864
+Sainte-Anne-de-la-Pocatiere,Quebec,2401,QC,1717
+Price,Quebec,2401,QC,1673
+Saint-Pacome,Quebec,2401,QC,1658
+Riviere-Blanche,Quebec,2401,QC,1642
+Saint-Jean-de-Dieu,Quebec,2401,QC,1606
+L' Isle-Verte,Quebec,2401,QC,1469
+Lac-au-Saumon,Quebec,2401,QC,1453
+Saint-Louis-du-Ha! Ha!,Quebec,2401,QC,1318
+Saint-Arsene,Quebec,2401,QC,1253
+Saint-Hubert-de-Riviere-du-Loup,Quebec,2401,QC,1235
+Notre-Dame-du-Portage,Quebec,2401,QC,1193
+Sainte-Felicite,Quebec,2401,QC,1175
+Saint-Michel-du-Squatec,Quebec,2401,QC,1171
+Saint-Gabriel-de-Rimouski,Quebec,2401,QC,1167
+Saint-Cyprien,Quebec,2401,QC,1163
+Mont-Carmel,Quebec,2401,QC,1136
+Notre-Dame-des-Neiges,Quebec,2401,QC,1129
+Saint-Modeste,Quebec,2401,QC,1128
+Les Mechins,Quebec,2401,QC,1107
+Saint-Rene-de-Matane,Quebec,2401,QC,1089
+Riviere-Ouelle,Quebec,2401,QC,1058
+Saint-Narcisse-de-Rimouski,Quebec,2401,QC,1017
+Chateau-Richer,Quebec,2403,QC,4126
+Saint-Laurent-de-l'Ile-d'Orleans,Quebec,2403,QC,1580
+Chute-aux-Outardes,Quebec,2409,QC,1577
+Pointe-a-la-Croix,Quebec,2411,QC,1472
+Saint-Joachim,Quebec,2404,QC,1471
+Ragueneau,Quebec,2409,QC,1405
+Pointe-des-Cascades,Quebec,2416,QC,1340
+Pointe-aux-Outardes,Quebec,2409,QC,1330
+Riviere-Bleue,Quebec,2401,QC,1299
+Whitehorse,Yukon,6001,YT,25085
+Dawson,Yukon,6001,YT,1375
+Saskatoon,Saskatchewan,4759,SK,346025
+Regina,Saskatchewan,4758,SK,272509
+Prince Albert,Saskatchewan,4755,SK,87916
+Moose Jaw,Saskatchewan,4760,SK,60079
+Lloydminster,Saskatchewan,4757,SK,79795
+Swift Current,Saskatchewan,4762,SK,37908
+Yorkton,Saskatchewan,4750,SK,97493
+North Battleford,Saskatchewan,4757,SK,79795
+Estevan,Saskatchewan,4761,SK,90663
+Warman,Saskatchewan,4759,SK,346025
+Weyburn,Saskatchewan,4761,SK,90663
+Martensville,Saskatchewan,4759,SK,346025
+Corman Park No. 344,Saskatchewan,4759,SK,346025
+Melfort,Saskatchewan,4756,SK,40797
+Humboldt,Saskatchewan,4750,SK,97493
+La Ronge,Saskatchewan,4753,SK,23506
+Meadow Lake,Saskatchewan,4754,SK,27546
+Flin Flon,Saskatchewan,4604,SK,77380
+Kindersley,Saskatchewan,4751,SK,36454
+Melville,Saskatchewan,4750,SK,97493
+Edenwold No. 158,Saskatchewan,4758,SK,272509
+Nipawin,Saskatchewan,4756,SK,40797
+Battleford,Saskatchewan,4757,SK,79795
+Prince Albert No. 461,Saskatchewan,4755,SK,87916
+Buckland No. 491,Saskatchewan,4755,SK,87916
+Tisdale,Saskatchewan,4756,SK,40797
+White City,Saskatchewan,4758,SK,272509
+Vanscoy No. 345,Saskatchewan,4759,SK,346025
+La Loche,Saskatchewan,4754,SK,27546
+Pelican Narrows,Saskatchewan,4753,SK,23506
+Unity,Saskatchewan,4757,SK,79795
+Meadow Lake No. 588,Saskatchewan,4754,SK,27546
+Moosomin,Saskatchewan,4761,SK,90663
+Esterhazy,Saskatchewan,4750,SK,97493
+Rosetown,Saskatchewan,4751,SK,36454
+Dundurn No. 314,Saskatchewan,4759,SK,346025
+Assiniboia,Saskatchewan,4760,SK,60079
+Rosthern No. 403,Saskatchewan,4755,SK,87916
+Outlook,Saskatchewan,4751,SK,36454
+Canora,Saskatchewan,4750,SK,97493
+Pilot Butte,Saskatchewan,4758,SK,272509
+Biggar,Saskatchewan,4751,SK,36454
+Britannia No. 502,Saskatchewan,4757,SK,79795
+Maple Creek,Saskatchewan,4762,SK,37908
+Rama,Saskatchewan,4750,SK,97493
+Blucher,Saskatchewan,4759,SK,346025
+Lumsden No. 189,Saskatchewan,4758,SK,272509
+Swift Current No. 137,Saskatchewan,4762,SK,37908
+Fort Qu'Appelle,Saskatchewan,4761,SK,90663
+Indian Head,Saskatchewan,4761,SK,90663
+Watrous,Saskatchewan,4750,SK,97493
+Orkney No. 244,Saskatchewan,4750,SK,97493
+Dalmeny,Saskatchewan,4759,SK,346025
+Kamsack,Saskatchewan,4750,SK,97493
+Lumsden,Saskatchewan,4758,SK,272509
+Wynyard,Saskatchewan,4750,SK,97493
+Shaunavon,Saskatchewan,4762,SK,37908
+Rosthern,Saskatchewan,4755,SK,87916
+Wilton No. 472,Saskatchewan,4757,SK,79795
+Balgonie,Saskatchewan,4758,SK,272509
+Shellbrook No. 493,Saskatchewan,4755,SK,87916
+Hudson Bay,Saskatchewan,4756,SK,40797
+Carlyle,Saskatchewan,4761,SK,90663
+Langham,Saskatchewan,4759,SK,346025
+Frenchman Butte,Saskatchewan,4757,SK,79795
+Torch River No. 488,Saskatchewan,4756,SK,40797
+Shellbrook,Saskatchewan,4755,SK,87916
+Macklin,Saskatchewan,4757,SK,79795
+Creighton,Saskatchewan,4753,SK,23506
+Laird No. 404,Saskatchewan,4755,SK,87916
+Canwood No. 494,Saskatchewan,4755,SK,87916
+Estevan No. 5,Saskatchewan,4761,SK,90663
+Spiritwood No. 496,Saskatchewan,4757,SK,79795
+Oxbow,Saskatchewan,4761,SK,90663
+Wadena,Saskatchewan,4750,SK,97493
+Wilkie,Saskatchewan,4757,SK,79795
+Ile-a-la-Crosse,Saskatchewan,4754,SK,27546
+South Qu'Appelle No. 157,Saskatchewan,4761,SK,90663
+Mervin No. 499,Saskatchewan,4757,SK,79795
+Osler,Saskatchewan,4759,SK,346025
+Lanigan,Saskatchewan,4750,SK,97493
+Lajord No. 128,Saskatchewan,4761,SK,90663
+Beaver River,Saskatchewan,4754,SK,27546
+Langenburg,Saskatchewan,4750,SK,97493
+Moose Jaw No. 161,Saskatchewan,4760,SK,60079
+Maidstone,Saskatchewan,4757,SK,79795
+Battle River No. 438,Saskatchewan,4757,SK,79795
+Kipling,Saskatchewan,4761,SK,90663
+Carnduff,Saskatchewan,4761,SK,90663
+Foam Lake,Saskatchewan,4750,SK,97493
+Gravelbourg,Saskatchewan,4760,SK,60079
+Hudson Bay No. 394,Saskatchewan,4756,SK,40797
+Buffalo Narrows,Saskatchewan,4754,SK,27546
+Air Ronge,Saskatchewan,4753,SK,23506
+Grenfell,Saskatchewan,4761,SK,90663
+St. Louis No. 431,Saskatchewan,4755,SK,87916
+Regina Beach,Saskatchewan,4758,SK,272509
+Pinehouse,Saskatchewan,4753,SK,23506
+Preeceville,Saskatchewan,4750,SK,97493
+Maple Creek No. 111,Saskatchewan,4762,SK,37908
+Weyburn No. 67,Saskatchewan,4761,SK,90663
+Birch Hills,Saskatchewan,4755,SK,87916
+Kerrobert,Saskatchewan,4751,SK,36454
+Eston,Saskatchewan,4751,SK,36454
+Kindersley No. 290,Saskatchewan,4751,SK,36454
+Delisle,Saskatchewan,4759,SK,346025
+Waldheim,Saskatchewan,4755,SK,87916
+Davidson,Saskatchewan,4751,SK,36454
+Longlaketon No. 219,Saskatchewan,4758,SK,272509
+Nipawin No. 487,Saskatchewan,4756,SK,40797
+Duck Lake No. 463,Saskatchewan,4755,SK,87916
