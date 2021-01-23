@@ -1,15 +1,15 @@
-﻿health_region,pop,HR_UID
-Canada,37971020,0
-Newfoundland and Labrador,520437,1
-Prince Edward Island,158717,2
-Nova Scotia,978274,3
-New Brunswick,780890,4
-Quebec,8552362,5
-Ontario,14745040,6
-Manitoba,1379121,7
-Saskatchewan,1181987,8
-Alberta,4428247,9
-British Columbia,5120184,10
-Yukon,41293,11
-Northwest Territories,44982,12
-Nunavut,39486,13
+﻿health_region,pop,adults,HR_UID
+Canada,37971020,30754887,0
+Newfoundland and Labrador,520437,436312,1
+Prince Edward Island,158717,129799,2
+Nova Scotia,978274,813389,3
+New Brunswick,780890,645289,4
+Quebec,8552362,6972707,5
+Ontario,14745040,11971129,6
+Manitoba,1379121,1068553,7
+Saskatchewan,1181987,905623,8
+Alberta,4428247,3445146,9
+British Columbia,5120184,4273972,10
+Yukon,41293,33660,11
+Northwest Territories,44982,34430,12
+Nunavut,39486,24878,13
